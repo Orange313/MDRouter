@@ -20,3 +20,14 @@ Based on the audited783-file candidate010, ZIP SHA256 `3ca814f4e0ecac37de42c4b2d
 ## Licenses and public verification
 
 No original-code license grant has been selected or added. `LICENSE_PROPOSED.md` is only a proposal. Upstream data/model terms remain separate: consult `THIRD_PARTY_NOTICES_010.md` and `license_pin_verification_010.json`; absent standalone license endpoints remain NOT_VERIFIED. Publication is not a blanket MIT relicensing. Public/no-login clone replay must be reported separately after an actual successful push; the local candidate receipt alone does not establish public verification. No CMT submission is performed by these scripts.
+
+## Paper review011 derived diagnostics
+
+After the42-table replay, regenerate the new ownership-sensitivity Figure4 and the declared post-hoc mechanism examples:
+
+```sh
+python repro/paper_fig4_ownership.py --lifecycle-csv NEW_REPLAY/lifecycle010_workspace/reports/icde_eab_release_validation_010/A0/replay_002/lifecycle_cost_replay.csv --output NEW_FIG4
+python repro/paper_mechanism_audit.py --per-query-csv NEW_REPLAY/base/workspace/reports/icde_eab_independent_007/T2/summary_001/biomedical_per_query.csv --output NEW_MECHANISM
+```
+
+Expected derived hashes are in `expected_paper_review011_hashes.json` (Linux/Python3.11). The nativeTeX figure is generated from frozen component costs; its volume grid is accounting, not new requests. Mechanism examples use declared maximum-diagnostic-score rules and all160queries remain included. Reference containment requiresFullV and is an offline diagnostic, not an allowedonline feature. These two smallscripts add no training, calibration, newqrels, images or weights; the original42numericexpectedhashes stayunchanged. Originalcode license selection remains pending; no MITgrant is added.

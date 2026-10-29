@@ -1,0 +1,10 @@
+{
+  "scope": "review011 derived figure and posthocmechanism diagnostics from already-public42replay; no newmodels/labels/timing",
+  "expected_output_SHA256": {
+    "paper_figure4.tex": "826f81821b4850a55ce5d0918e16f2a62cbeec3b892aba5e728a863b8d82e2fa",
+    "figure4_accounting_points.csv": "25fc465e164b2ef175e42fe56245eb4e804f89b74c0614d1e98eb5669bd449b3",
+    "candidate_coverage.csv": "03af0b23c4653abb99c81e9b7840d539fa85eca0e6c8b75cd9966463eb1a3f4c",
+    "mechanism_cases.csv": "a508c2dc422d3ea273d43d5deaf4439ecba2c012387a552e309998aa045d7bf8"
+  },
+  "all_original42_expected_hashes_unchanged": true
+}
