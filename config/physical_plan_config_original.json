@@ -1,0 +1,64 @@
+{
+  "run_id": "hr_pilot_004",
+  "dataset": "vidore_v3_hr",
+  "split_id": "query_generalization_001",
+  "allowed_role": "dev",
+  "query_count": 40,
+  "retrieval_scope": "all 1110 pinned HR corpus pages",
+  "plans": [
+    "T-BM25",
+    "T-Dense",
+    "T-to-V-Rerank@50",
+    "V-Multi"
+  ],
+  "reference": "V-Multi",
+  "gain": "linear relevance grade, matching default trec_eval/pytrec_eval nDCG",
+  "cutoff": 10,
+  "bm25": {
+    "k1": 1.5,
+    "b": 0.75,
+    "tokenizer": "aaber.common.text.tokenize",
+    "zero_score": "omit pages; empty result remains empty",
+    "arithmetic": "precomputed float64 posting contributions, vectorized gather/add; same formula/tokenizer/order"
+  },
+  "dense": {
+    "repo": "BAAI/bge-base-en-v1.5",
+    "selection": "English base-size endpoint, chosen before outcomes; no test selection",
+    "pooling": "normalized CLS",
+    "dtype": "float32",
+    "chunk_tokens": 384,
+    "chunk_stride": 320,
+    "page_score": "maximum normalized dot product over all page chunks",
+    "query_prefix": "Represent this sentence for searching relevant passages: ",
+    "query_max_tokens": 512
+  },
+  "visual": {
+    "repo": "vidore/colqwen2-v1.0-merged",
+    "embedding_dtype": "float16",
+    "score_dtype": "float32",
+    "score": "fixed batch 64, global passage padding; sum max(0, passage-token dot), identical kernel shape for rerank/full",
+    "image_processor": "pinned default; max image tokens 768; no extra image truncation",
+    "batch_size": 2,
+    "attention": "sdpa",
+    "TF32": false,
+    "score_batch_size": 64
+  },
+  "rerank": {
+    "source": "T-BM25",
+    "k": 50,
+    "k_selection": "predeclared engineering pilot value; 10 and 100 development-only diagnostics; no main-test selection yet",
+    "empty_candidates": "return empty, never silently run full visual reference"
+  },
+  "tie_break": "descending score, then numeric corpus_id within pinned dataset",
+  "error_handling": "fail run on missing pages/nonfinite embeddings or scores; no fabricated outcome; preserve logs and partial index",
+  "repeats": 3,
+  "cost": "resident single-query retrieval wall and process CPU time; CUDA synchronized; randomized plan order per query and repetition; model/index setup separate; energy/queue/arrival overhead unmeasured",
+  "business_minimum_net_saving": null,
+  "risk_budgets": [
+    0.0,
+    0.01,
+    0.03,
+    0.05,
+    0.1
+  ]
+}

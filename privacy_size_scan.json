@@ -1,0 +1,68 @@
+{
+  "status": "PASS",
+  "files_scanned": 777,
+  "hits": [],
+  "negative_predicate_tests": [
+    {
+      "case": "RFC1918_10",
+      "expected_rejected": true,
+      "actual_rejected": true,
+      "PASS": true
+    },
+    {
+      "case": "RFC1918_172",
+      "expected_rejected": true,
+      "actual_rejected": true,
+      "PASS": true
+    },
+    {
+      "case": "RFC1918_192",
+      "expected_rejected": true,
+      "actual_rejected": true,
+      "PASS": true
+    },
+    {
+      "case": "DOCUMENTATION_SENTINEL",
+      "expected_rejected": true,
+      "actual_rejected": true,
+      "PASS": true
+    },
+    {
+      "case": "POSIX_HOME",
+      "expected_rejected": true,
+      "actual_rejected": true,
+      "PASS": true
+    },
+    {
+      "case": "WINDOWS_HOME",
+      "expected_rejected": true,
+      "actual_rejected": true,
+      "PASS": true
+    },
+    {
+      "case": "OFFICIAL_URL",
+      "expected_rejected": false,
+      "actual_rejected": false,
+      "PASS": true
+    },
+    {
+      "case": "PUBLIC_IP",
+      "expected_rejected": false,
+      "actual_rejected": false,
+      "PASS": true
+    },
+    {
+      "case": "PLACEHOLDER",
+      "expected_rejected": false,
+      "actual_rejected": false,
+      "PASS": true
+    },
+    {
+      "case": "LOCALHOST",
+      "expected_rejected": false,
+      "actual_rejected": false,
+      "PASS": true
+    }
+  ],
+  "scope": "text and decompressed gzip, RFC1918/personal paths/token patterns; no proof against every conceivable secret"
+}

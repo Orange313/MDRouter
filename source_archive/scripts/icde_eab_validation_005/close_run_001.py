@@ -1,0 +1,15 @@
+import common as C,pathlib,json,subprocess
+stages={}
+for s in ['A0','A1','A2','A3','A4']:
+ p=C.ART/s/'manifest.json';v=json.loads(p.read_text());stages[s]={'status':v['status'],'manifest_SHA256':C.sha(p),'time_bj':v['time_bj'],'code_snapshot_commit':v['code_snapshot_commit']}
+for n,h in C.EXPECTED.items():assert C.sha(C.FROZEN/n)==h
+facts={'run_id':C.RUN,'status':'COMPLETED_WITH_LIMITATIONS','time_bj':C.stamp(),'stages':stages,'new_certification':'NOT_CERTIFIED','independent_Eval':'NOT_RUN_SEALED','Cal_Eval_oldBL_test_CS_reads':0,'frozen005_changed':False,'decision':'REGULAR_NO_GO_EAB_CONDITIONAL_NOT_READY','method_conclusion':'动态路由方法收益未被证明；停止复杂模型','new_Serving_status':stages['A2']['status'],'CPU_replay_identical_tables':7,'old_actual_path_requests_reanalyzed':11808,'unique_Dev_queries':164,'candidate_query_families':122,'input_predecessor_manifest_SHA256':'1e7cb67f75efa4e8a90c1f0e457930d4416ea80ef31cdf0d0e3b37fc6f71c925'}
+C.prose(C.REPORT/'round_summary.md','# icde_eab_validation_005｜结论—决策—阻塞\n\n**结论**：A0输入核验PASS；A1已重算11808次完整路径、160项数值/区间复核、7表CPU重放hash一致。四域Q/QP动态收益未被证明，Probe break-even和False-Safe已分解。新Serving状态：'+stages['A2']['status']+'；A3仅描述评估分析规范冻结，Eval未开；A4英文LaTeX草稿、图表、证据矩阵与私有复现候选已准备。\n\n**决策**：Regular NO_GO；EAB CONDITIONAL_NOT_READY。停止扩大路由模型，按10/29方法/口径冻结、10/30GoNoGo、11/4结果、11/5英文稿推进。\n\n**阻塞与限制**：Dev164/122候选族，非独立测试；新Cal/Eval/历史B-L/test/CS读取0，005不变。新正式K1 NOT_CERTIFIED；完整可移植GPU/索引/合法标签获取及公开工件、faithful外部baseline和独立评估仍不足。CPU重放不等于硬件从零复现。负结果和工程失败均保留。\n\n**证据**：A0–A4报告/manifest，A1逐查询与配对CI，A2全部请求/guard/调度，A3未解封规范，A4论文/复现/claim矩阵；总hash_inventory.json与manifest.json。\n')
+matrix=(C.REPORT/'A4/claim_to_evidence_matrix.md').read_text();C.prose(C.REPORT/'claim_to_evidence_matrix.md',matrix)
+tree='\n'.join(str(p.relative_to(C.REPORT)) for p in sorted(C.REPORT.rglob('*')) if p.is_file());C.prose(C.REPORT/'中文文件树.md','# 本轮文件树\n\n报告目录：'+str(C.REPORT)+'\n\nA0：冻结输入与证据登记；A1：同风险成本/Oracle/开销/错误；A2：原始队列诊断及新A/A、资源守卫；A3：封存评估规范与公开数据审计；A4：论文、表图、CPU复现与源码配方。失败/中间版本保留。\n\n```text\n'+tree+'\n```\n\n原始产物目录：'+str(C.ART)+'；论文工作区：'+str(C.ROOT/'evidence/paper'/C.RUN)+'。\n')
+code=C.snapshot('final_001');facts['code_snapshot_commit']=code['code_snapshot_commit'];facts['code_bundle_SHA256']=code['bundle_SHA256'];facts['base_git_commit']=code['shared_project_HEAD_unchanged'];files={}
+for folder in [C.ART,C.REPORT]:
+ for p in folder.rglob('*'):
+  if p.is_file() and p not in [C.ART/'manifest.json',C.ART/'hash_inventory.json',C.REPORT/'manifest.json',C.REPORT/'hash_inventory.json']:files[str(p.relative_to(C.ROOT))]=C.sha(p)
+C.write(C.ART/'hash_inventory.json',{'files':files,'time_bj':C.stamp(),'all_writers_closed_before_hash':True});C.write(C.REPORT/'hash_inventory.json',{'files':files,'time_bj':'same_final_scientific_state','artifact_inventory_SHA256':C.sha(C.ART/'hash_inventory.json')});facts['inventory_SHA256']=C.sha(C.ART/'hash_inventory.json');C.write(C.ART/'manifest.json',facts);C.write(C.REPORT/'manifest.json',facts)
+print(json.dumps({**facts,'manifest_SHA256':C.sha(C.ART/'manifest.json')},ensure_ascii=False),flush=True)

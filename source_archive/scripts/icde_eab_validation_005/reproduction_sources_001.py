@@ -1,0 +1,20 @@
+import common as C,pathlib,json,shutil,subprocess,sys
+C.start('A4/sources_001');base=C.load('manifests/primary_datasets_inventory.json');rows=[]
+for x in base['datasets']:
+ if x['repo'].split('/')[-1] not in ['vidore_v3_hr','vidore_v3_finance_en','vidore_v3_industrial','vidore_v3_pharmaceuticals']:continue
+ for f in x['files']:
+  if f['path'].startswith('corpus/') and f.get('lfs_sha256'):rows.append(dict(repo=x['repo'],revision=x['revision'],path=f['path'],bytes=f['bytes'],SHA256=f['lfs_sha256'],URL=f'https://huggingface.co/datasets/{x["repo"]}/resolve/{x["revision"]}/{f["path"]}'))
+idx=C.load('cache/indexes/pharma_fixedcorpus_index_001/index_manifest.json')
+for p,h in idx['source_corpus'].items():
+ if not any(x['SHA256']==h for x in rows):
+  f=C.ROOT/p;relative='corpus/'+f.name;rows.append(dict(repo='vidore/vidore_v3_pharmaceuticals',revision=idx['source_revision'],path=relative,bytes=f.stat().st_size,SHA256=h,URL=f'https://huggingface.co/datasets/vidore/vidore_v3_pharmaceuticals/resolve/{idx["source_revision"]}/{relative}'))
+C.write(C.R/'data_acquisition_manifest.json',{'status':'PINNED_UNLABELED_CORPUS_ONLY','time_bj':C.stamp(),'corpus_shards':rows,'queries_qrels':'deliberately excluded; role-scoped source/label recreation separately required','data_licenses':'CC-BY4 annotations, original page rights preserved'});shutil.copyfile(pathlib.Path(__file__).parent/'acquire_unlabeled_corpus_001.py',C.R/'acquire_unlabeled_corpus_001.py')
+sources=[C.ROOT/'scripts/icde_evidence_closure_003/e2_index_002.py',C.ROOT/'scripts/icde_evidence_closure_003/engine_001.py'];dest=C.R/'index_reference_sources';dest.mkdir()
+for p in sources:shutil.copyfile(p,dest/p.name)
+meta=C.load('artifacts/icde_eab_validation_005/metadata_local_001/receipt.json');C.write(C.R/'official_metadata_local_receipt.json',meta)
+for r in meta['rows']:
+ if r['status']=='PASS_METADATA_ONLY':C.load(C.ART/'metadata_local_001'/(r['repo'].replace('/','__')+'.json'),'OFFICIAL_REPOSITORY_METADATA_ONLY')
+C.prose(C.R/'independent_benchmark_addendum.md','# 元数据补充：服务器直连失败后经本机官方接口获取\n\n服务器7个官方API读取均超时，失败日志保留。本机通过同一官方HF API成功获取7个仓库的固定revision和许可元数据，无query/qrel载荷。\n\n'+ '\n'.join(f'- {x["repo"]}: {x.get("revision")}, license={x.get("license")}, {x["status"]}。' for x in meta['rows'])+'\n\n新候选仍未满足独立英文样本/许可证与source-component审核：ESG human-labeled卡无明确license，MMDocIR元数据Apache与作者研究限定CC-BY-NC矛盾；V2 eng子集不能仅据命名当原生英文独立样本。无领域纳入冻结，无新训练/评估。此补充不修改A3原规范或解封状态。\n')
+C.prose(C.R/'hardware_reproduction_commands.md','# 模型、索引和硬件复现命令/限制\n\n## 可运行的无标签下载\n\n```bash\npython acquire_unlabeled_corpus_001.py --manifest data_acquisition_manifest.json --destination NEW_DATA_DIR\n# 审查官方来源和存储后加 --execute；只允许已固定SHA的corpus分片，不下载query/qrels\n```\n\n视觉模型 vidore/colqwen2-v1.0-merged@2c9a09bb37ed19b63eb94ae6c29bb4e76eb6e3c2，冻结模型全资产hash由A0前序ledger追溯。环境见draft_002/environment_versions.json；必须独立新venv，不修改共享环境。\n\n## 已实际执行过的Pharma构建配方\n\n原代码与依赖复制在index_reference_sources，输入2313无标签页，batch2，processor longest_edge=768*28*28（pixel预算），FP16页embedding、FP32 exact MaxSim。原构建脚本硬编码旧目录且拒绝覆写，不能在既有服务器上原地重跑。命令接口为CUDA_VISIBLE_DEVICES=G python scripts/icde_evidence_closure_003/e2_index_002.py G；仅在全新重建ROOT、合法无标签分片、模型固定cache与3次空闲+ResourceGuard条件满足后使用。公开移植为可配置ROOT/目录的版本尚未硬件验证，标NOT_RUN，不能把CPU replay称作全链路重建。\n\n原三域索引、模型与执行backend可通过历史snapshot/assetledger恢复；全部索引的从零构建统一入口、权限隔离label获取和可移植GPU重跑仍为公开工件阻塞。所有强静态、hard/soft目标、cost口径配置需一同发布；本轮不发布任何封存数据。\n\n时长：CPU一键重放约数十秒；Pharma旧索引927s，包含剖析；真实A/A约每域8进程×2负载×2全Dev循环，取决GPU连续空闲与模型加载。不同硬件/新域不能用这些时长作为实测承诺。\n')
+test=subprocess.run([str(C.ROOT/'.venv/bin/python'),str(C.R/'acquire_unlabeled_corpus_001.py'),'--manifest',str(C.R/'data_acquisition_manifest.json'),'--destination','NOT_CREATED_PLAN_ONLY'],capture_output=True,text=True);assert test.returncode==0;C.write(C.A/'download_plan_smoke.json',{'status':'PASS_PLAN_ONLY_NO_DOWNLOAD','returncode':0,'shard_count':len(rows),'stdout':test.stdout})
+C.write(C.A/'complete.json',{'status':'PASS_METADATA_AND_DOWNLOAD_PLAN_INSUFFICIENT_FULL_HARDWARE_PORTABILITY','time_bj':C.stamp(),'query_qrel_reads':0,'corpus_shards':len(rows)});print(json.dumps({'status':'SOURCE_RECIPES_PREPARED','shards':len(rows),'time_bj':C.stamp()}),flush=True)

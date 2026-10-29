@@ -1,0 +1,71 @@
+{
+  "run_id": "icde_eab_release_validation_010",
+  "sources": [
+    {
+      "archive": "MDRouter_release_candidate_007.zip",
+      "sha256": "c14c4bf57b2f558fa36c62aeddbc3825cbfddd440ce1f67caab1f0f3f9ccba04"
+    },
+    {
+      "archive": "MDRouter_009_review_addendum_002.zip",
+      "sha256": "438d021b731c884a53b47c50b9489df8ba86a43557fcf26b5ccc4854ad53efa6"
+    }
+  ],
+  "omitted": [
+    {
+      "archive": "MDRouter_release_candidate_007.zip",
+      "path": "source_archive/scripts/icde_eab_independent_007/prepare_local_001.py",
+      "reason": "obsolete private packaging/preparation only, not scientific replay; original immutable source retained privately; semantic x4 scanner is generalized and tested"
+    },
+    {
+      "archive": "MDRouter_release_candidate_007.zip",
+      "path": "source_archive/scripts/icde_eab_lastmile_008/build_release_candidate_001.py",
+      "reason": "obsolete private packaging/preparation only, not scientific replay; original immutable source retained privately; semantic x4 scanner is generalized and tested"
+    },
+    {
+      "archive": "MDRouter_release_candidate_007.zip",
+      "path": "source_archive/scripts/icde_eab_lastmile_008/build_release_candidate_002.py",
+      "reason": "obsolete private packaging/preparation only, not scientific replay; original immutable source retained privately; semantic x4 scanner is generalized and tested"
+    },
+    {
+      "archive": "MDRouter_release_candidate_007.zip",
+      "path": "source_archive/scripts/icde_eab_lastmile_008/expand_source_closure_007.py",
+      "reason": "obsolete private packaging/preparation only, not scientific replay; original immutable source retained privately; semantic x4 scanner is generalized and tested"
+    },
+    {
+      "archive": "MDRouter_release_candidate_007.zip",
+      "path": "source_archive/scripts/icde_eab_lastmile_008/finalize_release_003.py",
+      "reason": "obsolete private packaging/preparation only, not scientific replay; original immutable source retained privately; semantic x4 scanner is generalized and tested"
+    },
+    {
+      "archive": "MDRouter_release_candidate_007.zip",
+      "path": "source_archive/scripts/icde_eab_lastmile_008/l2_clean_prepare_001.py",
+      "reason": "obsolete private packaging/preparation only, not scientific replay; original immutable source retained privately; semantic x4 scanner is generalized and tested"
+    },
+    {
+      "archive": "MDRouter_release_candidate_007.zip",
+      "path": "source_archive/scripts/icde_eab_lastmile_008/package_release_006.py",
+      "reason": "obsolete private packaging/preparation only, not scientific replay; original immutable source retained privately; semantic x4 scanner is generalized and tested"
+    },
+    {
+      "archive": "MDRouter_release_candidate_007.zip",
+      "path": "source_archive/scripts/icde_eab_lastmile_008/release_review_and_replay_004.py",
+      "reason": "obsolete private packaging/preparation only, not scientific replay; original immutable source retained privately; semantic x4 scanner is generalized and tested"
+    },
+    {
+      "archive": "MDRouter_009_review_addendum_002.zip",
+      "path": "required_replacement_drafts/replacement_review.json",
+      "reason": "obsolete private packaging/preparation only, not scientific replay; original immutable source retained privately; semantic x4 scanner is generalized and tested"
+    },
+    {
+      "archive": "MDRouter_009_review_addendum_002.zip",
+      "path": "required_replacement_drafts/x4_prepare_001.py",
+      "reason": "obsolete private packaging/preparation only, not scientific replay; original immutable source retained privately; semantic x4 scanner is generalized and tested"
+    }
+  ],
+  "original_source_files": 561,
+  "original_addendum_files": 221,
+  "numeric_CSVs": 38,
+  "publication": "NOT_PUBLISHED_PENDING_USER_APPROVAL",
+  "license": "NO_MIT_GRANT_PENDING_RIGHTS_OWNER",
+  "GPU": 0
+}

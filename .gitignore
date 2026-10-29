@@ -1,0 +1,37 @@
+# Credentials, private state and generated workspaces
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*token*
+.venv/
+venv/
+__pycache__/
+.cache/
+outputs/
+workspaces/
+private/
+paper_private/
+.DS_Store
+# Never commit pretrained weights, visual indexes or raw data corpora
+*.safetensors
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+*.parquet
+*.arrow
+*.h5
+*.hdf5
+*.npy
+*.npz
+*.tar
+*.tar.gz
+*.zip
+/data/
+/datasets/
+/models/
+/weights/
+/indexes/

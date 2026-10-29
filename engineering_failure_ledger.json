@@ -1,0 +1,7 @@
+{
+  "candidate001": "environment metadata lookup failed; original retained",
+  "clean_checkout001": "required small index metadata was excluded by broad ignore rule; original failed replay retained; root-anchored rule fixed in002",
+  "candidate003": "large detailed index traces caused210MB snapshots; preserved privately; candidate004 uses scalar profiles plus trace hash inventory",
+  "candidate004": "server Git lacks init --initial-branch; failure before commit or upload;005 uses compatible git init then checkout -b",
+  "GPU_process2_001": "pre-CUDA idle check reported lingering100percent utilization; retry002 preserved new directory and passed"
+}

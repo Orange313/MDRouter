@@ -1,0 +1,77 @@
+[
+  {
+    "file": "repro/t2_summarize_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t2_summarize_001.py",
+    "original_sha256": "abebe97e8de33beab8ad8b9be5acb4f648fd487efcc6e24befdbf775b92749b3",
+    "transformation": "NONE; original statistical and plotting code"
+  },
+  {
+    "file": "repro/t4_assemble_004.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t4_assemble_004.py",
+    "original_sha256": "7713bbd4729eda12bcfcecde9a9c0f43e5431d04fff81adf30ce5a6b05f47fdd",
+    "transformation": "Explicit original007 domain row order, removing nondeterministic glob iteration only; original656 values and expected SHA unchanged.",
+    "public_sha256": "b9c4e46228d10740ace5ed9de4708990c7671b6850bdd237db01bbdcf0437744"
+  },
+  {
+    "file": "repro/figures_003.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/figures_003.py",
+    "original_sha256": "c118c972646a5933052d8826b0d3b5458506153df7beb3757d5ed9c56473857c",
+    "transformation": "NONE; original statistical and plotting code"
+  },
+  {
+    "file": "repro/figures_003.py",
+    "transformation": "Remove original-host private dependency search path; install the exact observed matplotlib separately. Plot data and drawing commands unchanged."
+  },
+  {
+    "file": "repro/common.py",
+    "transformation": "Replace workspace location and Git/archive-only finish. Statistical clean/table/load semantics unchanged; no original project path or network."
+  },
+  {
+    "file": "execution_source/t2_biomedical_exact_004.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t2_biomedical_exact_004.py",
+    "original_sha256": "8fbfd9f965c1feb0063e7be2f141acb411527ff598e72d13a9877e38505ce203",
+    "transformation": "NONE; archived original executed worker; use portable recipes for paths/dependencies"
+  },
+  {
+    "file": "execution_source/engine_exact_004.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/engine_exact_004.py",
+    "original_sha256": "9fcde5b1bfe83111ddf4a55d9bb0db46ae76468348b626e649af0e4e01c65fcb",
+    "transformation": "NONE; archived original executed worker; use portable recipes for paths/dependencies"
+  },
+  {
+    "file": "execution_source/learning_base_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/learning_base_001.py",
+    "original_sha256": "05bbd89d94fc1ce6862fd18a50ff33daf7ad21a0a664f877942276fb03464978",
+    "transformation": "NONE; archived original executed worker; use portable recipes for paths/dependencies"
+  },
+  {
+    "file": "execution_source/colpali_loader_003.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/colpali_loader_003.py",
+    "original_sha256": "340384411eb5c12933d1dad58a609db54f7e99fd7570686d6c9265ecdb6df5be",
+    "transformation": "NONE; archived original executed worker; use portable recipes for paths/dependencies"
+  },
+  {
+    "file": "execution_source/t3_colpali_expansion_004.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_colpali_expansion_004.py",
+    "original_sha256": "3465187a279688081607c9537975be3a2ac401bbfcf84e6262d00dce79a00a6f",
+    "transformation": "NONE; archived original executed worker; use portable recipes for paths/dependencies"
+  },
+  {
+    "file": "execution_source/t3_colpali_expansion_006.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_colpali_expansion_006.py",
+    "original_sha256": "ef556fcf63eeb9114cc822d9c75c5710c41aee378c331bda19794824af90d264",
+    "transformation": "NONE; archived original executed worker; use portable recipes for paths/dependencies"
+  },
+  {
+    "file": "execution_source/l1_biomedical_colpali_001.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/l1_biomedical_colpali_001.py",
+    "original_sha256": "ad31b2410705653b92b3a5e0dd70e4dbd516bd01618ccd77d00b5faf2877ca23",
+    "transformation": "NONE; archived original executed worker; use portable recipes for paths/dependencies"
+  },
+  {
+    "file": "execution_source/l0_paired_001.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/l0_paired_001.py",
+    "original_sha256": "b8a85a2c34df59aad9a0dd79c55ba4db88934bdfd7e9b1679737f85f973c3352",
+    "transformation": "NONE; archived original executed worker; use portable recipes for paths/dependencies"
+  }
+]

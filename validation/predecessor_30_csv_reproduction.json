@@ -1,0 +1,198 @@
+{
+  "status": "PASS",
+  "checks": [
+    {
+      "table": "reports/icde_eab_independent_007/T2/summary_001/biomedical_per_query.csv",
+      "expected": "db02ab6fe1f01870465c45faa220013a9e69296411907e9c3a445ac3f1820f02",
+      "actual": "db02ab6fe1f01870465c45faa220013a9e69296411907e9c3a445ac3f1820f02",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_independent_007/T2/summary_001/biomedical_main_table.csv",
+      "expected": "0816b2a6d56e643b3f0e89a2eb386701f8b618a28e587ee61909c376dc7ae1a4",
+      "actual": "0816b2a6d56e643b3f0e89a2eb386701f8b618a28e587ee61909c376dc7ae1a4",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_independent_007/T2/summary_001/biomedical_oracle_gap.csv",
+      "expected": "85dcfcfebc06aa7ef3052ba5b72ef496aeaa02351932909181734e4c53de0c03",
+      "actual": "85dcfcfebc06aa7ef3052ba5b72ef496aeaa02351932909181734e4c53de0c03",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_independent_007/T2/summary_001/biomedical_group_bootstrap.csv",
+      "expected": "ffe97d97c7373eaf0ed7d1ebd1224d2d51517ec17d05a560c816cebda7652278",
+      "actual": "ffe97d97c7373eaf0ed7d1ebd1224d2d51517ec17d05a560c816cebda7652278",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_independent_007/T2/summary_001/biomedical_matched_risk_analysis.csv",
+      "expected": "b2bcdd4c0d7eb1c0746ef7b5bfba0b3f6be9742d60c5d4a2998ae2ae889f1d45",
+      "actual": "b2bcdd4c0d7eb1c0746ef7b5bfba0b3f6be9742d60c5d4a2998ae2ae889f1d45",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_independent_007/T2/summary_001/gpu_cost_breakdown.csv",
+      "expected": "d7f70499c1f4de78fc7296ee84ef3c6f14b7ec490bcf06395d2db89eb3716432",
+      "actual": "d7f70499c1f4de78fc7296ee84ef3c6f14b7ec490bcf06395d2db89eb3716432",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_independent_007/T2/summary_001/biomedical_quality_cost_frontier.csv",
+      "expected": "80106a76da97570697eb54d291085defa93be7986435447fda12d6dbb7e562bc",
+      "actual": "80106a76da97570697eb54d291085defa93be7986435447fda12d6dbb7e562bc",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_independent_007/T2/summary_001/biomedical_setup_amortization.csv",
+      "expected": "92939d41564742d4485f132546dea41d10a20feea44ffd3ca72a6f39720c7063",
+      "actual": "92939d41564742d4485f132546dea41d10a20feea44ffd3ca72a6f39720c7063",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_independent_007/T4/rebuild_004/primary_reference_parity.csv",
+      "expected": "d15068bf6700cc4a7b6b70413a343dcfe1d679a6bd42a6ae079ef0fda2c9d145",
+      "actual": "d15068bf6700cc4a7b6b70413a343dcfe1d679a6bd42a6ae079ef0fda2c9d145",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_independent_007/T4/rebuild_004/eab_cross_domain_cross_retriever.csv",
+      "expected": "62aefbb5e4927b856cf5358065d65d672550d97f4ec184055b6a12ea0d54a1ef",
+      "actual": "62aefbb5e4927b856cf5358065d65d672550d97f4ec184055b6a12ea0d54a1ef",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_independent_007/T4/rebuild_004/eab_main_results.csv",
+      "expected": "880d566c5faaae589f6f59c12d2666a400466da9470458b89736e762a23345e1",
+      "actual": "880d566c5faaae589f6f59c12d2666a400466da9470458b89736e762a23345e1",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_independent_007/T4/rebuild_004/eab_oracle_gap_decomposition.csv",
+      "expected": "c6acc5c4e55b15dd386da659f5ec0c73330dd9465be8a6db23647b0a2b63b51e",
+      "actual": "c6acc5c4e55b15dd386da659f5ec0c73330dd9465be8a6db23647b0a2b63b51e",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_independent_007/T4/rebuild_004/claim_to_evidence_matrix.csv",
+      "expected": "1f832adc4d8228a6a96b1b4198e34de89b45b3537be7fa6ce46eebac845f9413",
+      "actual": "1f832adc4d8228a6a96b1b4198e34de89b45b3537be7fa6ce46eebac845f9413",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_independent_007/T4/rebuild_004/biomedical_measured_plan_pareto.csv",
+      "expected": "76907d901713b913e56eef0967c04fa0d9f3a3aa51db665f5dbd1e7a755bf649",
+      "actual": "76907d901713b913e56eef0967c04fa0d9f3a3aa51db665f5dbd1e7a755bf649",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_independent_007/T4/rebuild_004/biomedical_quality_cost_frontier.csv",
+      "expected": "32d0fa8dedd7c95cfcdf5ff327eb84bf23c8a9756f953c95eabc4c695abad8dd",
+      "actual": "32d0fa8dedd7c95cfcdf5ff327eb84bf23c8a9756f953c95eabc4c695abad8dd",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_lastmile_008/L0/paired_qp_vs_r100.csv",
+      "expected": "e9662f319929c4b0ae33bb35e0b120e68c28f613a7f705677de190ae2d58017c",
+      "actual": "e9662f319929c4b0ae33bb35e0b120e68c28f613a7f705677de190ae2d58017c",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_lastmile_008/L0/paired_all_comparisons.csv",
+      "expected": "84ad7ca607c052cfa494b276b05ef36adffd1613b601198923f4fcc0a682851f",
+      "actual": "84ad7ca607c052cfa494b276b05ef36adffd1613b601198923f4fcc0a682851f",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_lastmile_008/L0/leave_one_source_out.csv",
+      "expected": "75ce5680838710da1dc74675a8b1e85e6d39caf2d3512f989d3b32bd1bbb0aa7",
+      "actual": "75ce5680838710da1dc74675a8b1e85e6d39caf2d3512f989d3b32bd1bbb0aa7",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_lastmile_008/L0/posthoc_envelope_vs_frozen_random.csv",
+      "expected": "c0bd9735622258a6d91b12aa4878aa8b458e2f8e1cb84204ac5925f0ccdfefe8",
+      "actual": "c0bd9735622258a6d91b12aa4878aa8b458e2f8e1cb84204ac5925f0ccdfefe8",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_lastmile_008/L0/high_harm_false_safe.csv",
+      "expected": "860ec344ff6e27e45a55a5a03919b91ca25c73e7e61f32d90963acfcf1621a4d",
+      "actual": "860ec344ff6e27e45a55a5a03919b91ca25c73e7e61f32d90963acfcf1621a4d",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_lastmile_008/L0/fidelity_cost_source_audit.csv",
+      "expected": "586e0eae907782f557e4a706358452fbe76f39d0609e0cb8b757a6e669477360",
+      "actual": "586e0eae907782f557e4a706358452fbe76f39d0609e0cb8b757a6e669477360",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_lastmile_008/L0/false_safe_by_source.csv",
+      "expected": "a86309f799a4d04efd013e6a2b2d70a13760a3b538add9e666cd778bec8cfaa5",
+      "actual": "a86309f799a4d04efd013e6a2b2d70a13760a3b538add9e666cd778bec8cfaa5",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_lastmile_008/L0/query_family_sensitivity.csv",
+      "expected": "199f3abe2389f5e4d10a72cb22aaf2427e7f59deb2ad32fb7646caab700bf5f3",
+      "actual": "199f3abe2389f5e4d10a72cb22aaf2427e7f59deb2ad32fb7646caab700bf5f3",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_lastmile_008/L0/bootstrap_by_source.csv",
+      "expected": "987c522044b74fbaeea7fbe795e8f6c53d3e276b57e50363d24dba7a25fe4959",
+      "actual": "987c522044b74fbaeea7fbe795e8f6c53d3e276b57e50363d24dba7a25fe4959",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_lastmile_008/L1/summary_001/biomedical_colpali_fullv_r50_r100_bm25.csv",
+      "expected": "4369cf01266c9f7dec631d13a04873e3db57b198871ec7e5ac2da605dceb94b3",
+      "actual": "4369cf01266c9f7dec631d13a04873e3db57b198871ec7e5ac2da605dceb94b3",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_lastmile_008/L1/summary_001/cross_model_within_domain_comparison.csv",
+      "expected": "51420d80307fe5bcd7b61c5b15aedc3723a83c2e87cf87775dececec716e9594",
+      "actual": "51420d80307fe5bcd7b61c5b15aedc3723a83c2e87cf87775dececec716e9594",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_lastmile_008/L1/summary_001/gpu_cost_breakdown.csv",
+      "expected": "03189ac5a8475f16e033ab05019a16b1ce73a8c050cb8b721ce1587f1be50c34",
+      "actual": "03189ac5a8475f16e033ab05019a16b1ce73a8c050cb8b721ce1587f1be50c34",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_lastmile_008/L1/summary_001/setup_amortization.csv",
+      "expected": "2d48fe193af13a6866a3eba36cb76d79c56c2e8f9208c86ffe771d4737df6321",
+      "actual": "2d48fe193af13a6866a3eba36cb76d79c56c2e8f9208c86ffe771d4737df6321",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_lastmile_008/L1/summary_001/per_query.csv",
+      "expected": "c149dbb75595ee907753bcb0f14a5086539ee7ebf334ea4462a62a15df4202bc",
+      "actual": "c149dbb75595ee907753bcb0f14a5086539ee7ebf334ea4462a62a15df4202bc",
+      "identical": true
+    },
+    {
+      "table": "reports/icde_eab_lastmile_008/L1/summary_001/source_family_intervals.csv",
+      "expected": "215d424a71e5d6c5027658ae76c5d8e141beac12e5a6209a526ae0d110087a61",
+      "actual": "215d424a71e5d6c5027658ae76c5d8e141beac12e5a6209a526ae0d110087a61",
+      "identical": true
+    }
+  ],
+  "wall_seconds": 25.364992289803922,
+  "original_research_checkout_required": false,
+  "network_required": false,
+  "new_queries": 0,
+  "new_GPU_work": 0,
+  "figure_files": [
+    "workspace/reports/icde_eab_independent_007/T4/rebuild_004/figures/quality_cost.pdf",
+    "workspace/reports/icde_eab_independent_007/T4/rebuild_004/figures/oracle_vs_learned.png",
+    "workspace/reports/icde_eab_independent_007/T4/rebuild_004/figures/quality_cost.png",
+    "workspace/reports/icde_eab_independent_007/T4/rebuild_004/figures/cross_domain_retriever.png",
+    "workspace/reports/icde_eab_independent_007/T4/rebuild_004/figures/cross_domain_retriever.pdf",
+    "workspace/reports/icde_eab_independent_007/T4/rebuild_004/figures/oracle_vs_learned.pdf"
+  ]
+}

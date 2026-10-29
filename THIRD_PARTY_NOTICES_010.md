@@ -1,0 +1,3 @@
+# Verified pinned upstream notices, not a blanket software license
+
+The four pinned READMEs were fetched on2026-10-28 with hashes in license_pin_verification_010.json. ColQwen2 card: Apache2 backbone, MIT adapters. ColPali card: MIT adapter, separate Gemma backbone terms; PaliGemma base card: Gemma. Biomedical card and license.md: CC-BY-NC-SA4.0. No upstream weights, corpus images, fullqrels or visual indexes are redistributed. The separate LICENSE/license.md endpoints returning404 remain NOT_VERIFIED; a fetched card is not a new license grant. Original-code MIT is only proposed, pending explicit rights-owner confirmation. Statistical derived snapshots remain separately attributed and subject to applicable source terms; do not treat every file as MIT.

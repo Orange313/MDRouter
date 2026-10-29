@@ -1,0 +1,1878 @@
+[
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/archive_code_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/archive_code_001.py",
+    "original_sha256": "d44c94fbeb8b154d43941f734c2421a0f0150416302ad3c20f2a43cd8f1bd63b",
+    "public_sha256": "d44c94fbeb8b154d43941f734c2421a0f0150416302ad3c20f2a43cd8f1bd63b",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/archive_code_002.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/archive_code_002.py",
+    "original_sha256": "ca9dcd6a5b9b7dc5ff7e6f90e2e9cf8ba372a3afeead5b761ceed38df622f51f",
+    "public_sha256": "ca9dcd6a5b9b7dc5ff7e6f90e2e9cf8ba372a3afeead5b761ceed38df622f51f",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/close_run_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/close_run_001.py",
+    "original_sha256": "baab3c3973beb58a61cf5dd42694d0b90187002b0ac9cdffb5127d18f34715fb",
+    "public_sha256": "e3ca5e983331ff9f1804f655322c83bdf9edacd7b67b47db81afe0b1a02adead",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/close_run_002.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/close_run_002.py",
+    "original_sha256": "e03406e4a8c40d48eddec6da00c60f622b45dfd900c0017158e46592a5ff194d",
+    "public_sha256": "e10ca2f8af8cc605f9d16136741daacde380d5f78728c6de90d81a9cb423f2d6",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/close_run_003.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/close_run_003.py",
+    "original_sha256": "245b15dce263d31018944502235d8a9366eafe3699f0dd4b62e58eff648caf1f",
+    "public_sha256": "26642949588d67d8dedbbea3149c0c7a3b2de60b17eea09be29c326aef9c9469",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/common.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/common.py",
+    "original_sha256": "ea20b156fcaa03358d622606fc8347acb4424c5dfc2bd9761447d84a14a36896",
+    "public_sha256": "e70bd1ef1a57236099ded35e358151cf0a56c0cc6a1111cc2a69b38aecc8509a",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e0_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e0_001.py",
+    "original_sha256": "17b4670035911971bb494fef518c5986348ba23a6b7828601a0c4f6d47bd8d5b",
+    "public_sha256": "17b4670035911971bb494fef518c5986348ba23a6b7828601a0c4f6d47bd8d5b",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e1_analyze_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e1_analyze_001.py",
+    "original_sha256": "bce42b4001564fb1a9abfa7608b123bdf2677573bec25e92611dc2260c30995a",
+    "public_sha256": "bce42b4001564fb1a9abfa7608b123bdf2677573bec25e92611dc2260c30995a",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e1_driver_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e1_driver_001.py",
+    "original_sha256": "303faaceefe0cd454630fcb4a115e1f79c9fe499dc17b945d7cc148468494d43",
+    "public_sha256": "303faaceefe0cd454630fcb4a115e1f79c9fe499dc17b945d7cc148468494d43",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e1_worker_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e1_worker_001.py",
+    "original_sha256": "3f8c36ee2e592c32043b74554048791c7d090359cfde828fa1df51a361a1f9db",
+    "public_sha256": "3f8c36ee2e592c32043b74554048791c7d090359cfde828fa1df51a361a1f9db",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e2_closure_seal_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e2_closure_seal_001.py",
+    "original_sha256": "a57120bd0ea06be28d7bbb28d0bb2d926eb6e85d2dac45399344f98ec3177016",
+    "public_sha256": "a57120bd0ea06be28d7bbb28d0bb2d926eb6e85d2dac45399344f98ec3177016",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e2_index_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e2_index_001.py",
+    "original_sha256": "47faebb7466afc206b68430aa364d93ee9f8e51422cc127e4c3ca36c1b9af2c7",
+    "public_sha256": "47faebb7466afc206b68430aa364d93ee9f8e51422cc127e4c3ca36c1b9af2c7",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e2_index_002.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e2_index_002.py",
+    "original_sha256": "ee30ed6f94ff2e5fc92229a169f122f772554db8c302fc7e967c7d78b1e6fb92",
+    "public_sha256": "ee30ed6f94ff2e5fc92229a169f122f772554db8c302fc7e967c7d78b1e6fb92",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e2_learning_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e2_learning_001.py",
+    "original_sha256": "b434acf1e69cf6c49e60d5f2fdf650290e8cf3f2ba42fccc843bac1b7a1ac111",
+    "public_sha256": "b434acf1e69cf6c49e60d5f2fdf650290e8cf3f2ba42fccc843bac1b7a1ac111",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e2_outcome_driver_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e2_outcome_driver_001.py",
+    "original_sha256": "fc895da7af8540418dcf75c72c7a0f2889a45a7d1b7729e8aea95c56d0257725",
+    "public_sha256": "fc895da7af8540418dcf75c72c7a0f2889a45a7d1b7729e8aea95c56d0257725",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e2_outcomes_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e2_outcomes_001.py",
+    "original_sha256": "b92aab97841100ca57273b9bf8aa3be972c5cba32a5cf71f7ee9e9a6257e9010",
+    "public_sha256": "b92aab97841100ca57273b9bf8aa3be972c5cba32a5cf71f7ee9e9a6257e9010",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e2_preflight_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e2_preflight_001.py",
+    "original_sha256": "f4b7595f2537d261b2bae6559524c509f6b8f3f08e9b4f598566736c43c58153",
+    "public_sha256": "f4b7595f2537d261b2bae6559524c509f6b8f3f08e9b4f598566736c43c58153",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e2_uncertainty_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e2_uncertainty_001.py",
+    "original_sha256": "e9287a1205e82d7de60943fd8cc23defb075683500ccb2afa98e37508cca56fe",
+    "public_sha256": "e9287a1205e82d7de60943fd8cc23defb075683500ccb2afa98e37508cca56fe",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e3_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e3_001.py",
+    "original_sha256": "5faf624b7b167d67e829cebbdcdde5332eb8387f5183c9e5a00120ab1bdd5466",
+    "public_sha256": "5faf624b7b167d67e829cebbdcdde5332eb8387f5183c9e5a00120ab1bdd5466",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e4_analyze_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e4_analyze_001.py",
+    "original_sha256": "452b73fb942cef5b21566cf8289277796dfa645ef96b2ec47898b10d8c1cd37c",
+    "public_sha256": "452b73fb942cef5b21566cf8289277796dfa645ef96b2ec47898b10d8c1cd37c",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e4_driver_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e4_driver_001.py",
+    "original_sha256": "838250cd87b898f442d0e1e3302e028b75347f4ba221d072a05d3294da585217",
+    "public_sha256": "838250cd87b898f442d0e1e3302e028b75347f4ba221d072a05d3294da585217",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e4_freeze_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e4_freeze_001.py",
+    "original_sha256": "61fb78bab267e906344db5a8b5b79c67392751c09278523c743fc2a273f32a2d",
+    "public_sha256": "61fb78bab267e906344db5a8b5b79c67392751c09278523c743fc2a273f32a2d",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e4_worker_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e4_worker_001.py",
+    "original_sha256": "631ab14456a7f819314b3e8e9db6a340e02e2f0d5257c95821f8c521da0c887f",
+    "public_sha256": "631ab14456a7f819314b3e8e9db6a340e02e2f0d5257c95821f8c521da0c887f",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e5_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e5_001.py",
+    "original_sha256": "60c704a26e8cac445e24c690ae12d9a54cba4f27cca5f0e5e73f5d096acdcefc",
+    "public_sha256": "195db537984c5934b9e62aa7a3112ed3895fb3372888a461759f973bd944dfe3",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e5_002.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e5_002.py",
+    "original_sha256": "2345f57bcf5e7e5283731a62051054e790fa1405c96df7ca5b897a7a4cf37fe4",
+    "public_sha256": "89e409f57b10c1f7db805f14652930bbda32fb5e105178b6def6a214bf67999c",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e5_archive_resume_003.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e5_archive_resume_003.py",
+    "original_sha256": "7afb6eb8af3fad214e0b8376eea3610276f896a3eeb58b75f4b2a6ee4fde48f6",
+    "public_sha256": "7afb6eb8af3fad214e0b8376eea3610276f896a3eeb58b75f4b2a6ee4fde48f6",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/e5_reproduction_003.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/e5_reproduction_003.py",
+    "original_sha256": "573ff67fe2680c0a710a6aba0b715ac53057550af1e70d8c19e6f65a34a3c2c0",
+    "public_sha256": "34fe8f7a56d0baf66e28018387e9346adce27daeca057cc2fa2e04a1db4655fc",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/engine_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/engine_001.py",
+    "original_sha256": "fed82a7847f95ea6c9c2ba5b0d5fbce4f543087d7229938fbfcf4d663f35aafe",
+    "public_sha256": "fed82a7847f95ea6c9c2ba5b0d5fbce4f543087d7229938fbfcf4d663f35aafe",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/feature_semantics_audit_002.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/feature_semantics_audit_002.py",
+    "original_sha256": "9d8773c5820c99e2167f8b0c03d500cc549b571c24ec1d6102451ebe702cbbdd",
+    "public_sha256": "9d8773c5820c99e2167f8b0c03d500cc549b571c24ec1d6102451ebe702cbbdd",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/fitdev_projection_003.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/fitdev_projection_003.py",
+    "original_sha256": "f0fb826777c8bdaa5e95d156161f18837add9ed0712bdbb53100de451f42f634",
+    "public_sha256": "f0fb826777c8bdaa5e95d156161f18837add9ed0712bdbb53100de451f42f634",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/fitdev_projection_004.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/fitdev_projection_004.py",
+    "original_sha256": "86bd9af63d631e1548031c4bd0297666293d2f59cc982479c4468f5116a3192a",
+    "public_sha256": "86bd9af63d631e1548031c4bd0297666293d2f59cc982479c4468f5116a3192a",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/fitdev_projection_005.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/fitdev_projection_005.py",
+    "original_sha256": "0d9249ab94ab11a6498f86a94fb9d5b5dc88d040b7a34f535f5ecace7e78accd",
+    "public_sha256": "0d9249ab94ab11a6498f86a94fb9d5b5dc88d040b7a34f535f5ecace7e78accd",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/fitdev_projection_006.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/fitdev_projection_006.py",
+    "original_sha256": "78ba8635e34a8521c4dae092f09137b6a6edae27a18c59bfeac04e136a82f89c",
+    "public_sha256": "78ba8635e34a8521c4dae092f09137b6a6edae27a18c59bfeac04e136a82f89c",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/fitdev_projection_007.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/fitdev_projection_007.py",
+    "original_sha256": "d09444a10cb4ca4bb0879117c606e717fa3ffdb241e357b30edf333d907b6f39",
+    "public_sha256": "d09444a10cb4ca4bb0879117c606e717fa3ffdb241e357b30edf333d907b6f39",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/fitdev_projection_008.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/fitdev_projection_008.py",
+    "original_sha256": "7c980e780da3a058e6b2c7f33e424fbf25e3cb53d3605ad652b3b9d3d1ae8b3f",
+    "public_sha256": "7c980e780da3a058e6b2c7f33e424fbf25e3cb53d3605ad652b3b9d3d1ae8b3f",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/learning_base_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/learning_base_001.py",
+    "original_sha256": "05bbd89d94fc1ce6862fd18a50ff33daf7ad21a0a664f877942276fb03464978",
+    "public_sha256": "05bbd89d94fc1ce6862fd18a50ff33daf7ad21a0a664f877942276fb03464978",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/pharma_components_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/pharma_components_001.py",
+    "original_sha256": "1894ccddb0356a34027b0c23d1d714cac7e662814b454dc308484daf03fdd636",
+    "public_sha256": "1894ccddb0356a34027b0c23d1d714cac7e662814b454dc308484daf03fdd636",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/prepare_reproduction_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/prepare_reproduction_001.py",
+    "original_sha256": "dca88b34e21ee3b7ff82f8ce250be35397630a4be1a60bc3731794c71564a288",
+    "public_sha256": "933e0e8c1106216805b05183f3f380b4b3e5ec157bd582801c67c006868e4de3",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/prepare_reproduction_002.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/prepare_reproduction_002.py",
+    "original_sha256": "9000921885f2abf343b1b1ffd299388e4194d38cc5821ed0abc92afed3bea7ab",
+    "public_sha256": "b413b50b170edaf86b402219ea7dc5aad1442019d3c1149aedb2ffc2f1008268",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/public_fetch_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/public_fetch_001.py",
+    "original_sha256": "5009c3eb69e14f559568a70417c23a779aaf0c4e875bef923713c3aa3618cfb2",
+    "public_sha256": "5009c3eb69e14f559568a70417c23a779aaf0c4e875bef923713c3aa3618cfb2",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/public_fetch_002.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/public_fetch_002.py",
+    "original_sha256": "75dcd9895e3174376e70b2ef133d378d4f72d29f5b0cb6729587c71e5ed91637",
+    "public_sha256": "75dcd9895e3174376e70b2ef133d378d4f72d29f5b0cb6729587c71e5ed91637",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/queue_noise_diagnostic_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/queue_noise_diagnostic_001.py",
+    "original_sha256": "4382f90675a47a474e395820964c7710f212bc3312126a325ebdd4285c41d92a",
+    "public_sha256": "4382f90675a47a474e395820964c7710f212bc3312126a325ebdd4285c41d92a",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/replot_paper_001.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/replot_paper_001.py",
+    "original_sha256": "9369001d63d89f983173d4982e1f178dbfc6581ed21836bd62675a518e0f6ee4",
+    "public_sha256": "9369001d63d89f983173d4982e1f178dbfc6581ed21836bd62675a518e0f6ee4",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_evidence_closure_003/replot_paper_002.py",
+    "original_relative_path": "scripts/icde_evidence_closure_003/replot_paper_002.py",
+    "original_sha256": "82ffc834354674873c641cdbf3d1d824c0b486065a98213c2fbcb07f40bb9d0f",
+    "public_sha256": "82ffc834354674873c641cdbf3d1d824c0b486065a98213c2fbcb07f40bb9d0f",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/aa_analyze_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/aa_analyze_001.py",
+    "original_sha256": "73e1e7796a3e6cf3ae96bd49a89f1b55909cfb4d172780af394e84250cffaf2d",
+    "public_sha256": "73e1e7796a3e6cf3ae96bd49a89f1b55909cfb4d172780af394e84250cffaf2d",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/aa_analyze_002.py",
+    "original_relative_path": "scripts/icde_final_gate_004/aa_analyze_002.py",
+    "original_sha256": "b3010b99f074484401587ffc89d632be17f52ca81ac1945861e1ce0845fb99c8",
+    "public_sha256": "b3010b99f074484401587ffc89d632be17f52ca81ac1945861e1ce0845fb99c8",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/aa_analyze_003.py",
+    "original_relative_path": "scripts/icde_final_gate_004/aa_analyze_003.py",
+    "original_sha256": "1fd8ea65ff27c03f9a053f1095620c54c4c45d7dd52c8d0819500aa9aa7053ab",
+    "public_sha256": "1fd8ea65ff27c03f9a053f1095620c54c4c45d7dd52c8d0819500aa9aa7053ab",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/aa_domain_gate_004.py",
+    "original_relative_path": "scripts/icde_final_gate_004/aa_domain_gate_004.py",
+    "original_sha256": "f3f54d01847bdf915873aee90bf1dd3ee783bec750b8876b189041f806fd5790",
+    "public_sha256": "f3f54d01847bdf915873aee90bf1dd3ee783bec750b8876b189041f806fd5790",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/aa_domain_gate_005.py",
+    "original_relative_path": "scripts/icde_final_gate_004/aa_domain_gate_005.py",
+    "original_sha256": "b63325f467dee6d41a06aba68cfdb7cf3f434c26b2b3768dddf115ba7ffe3da8",
+    "public_sha256": "b63325f467dee6d41a06aba68cfdb7cf3f434c26b2b3768dddf115ba7ffe3da8",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/aa_full_analysis_005.py",
+    "original_relative_path": "scripts/icde_final_gate_004/aa_full_analysis_005.py",
+    "original_sha256": "42889108a52758892d6b0a3c9c60fd51dbfa481f66bacf1eb4982e2c1f21b728",
+    "public_sha256": "42889108a52758892d6b0a3c9c60fd51dbfa481f66bacf1eb4982e2c1f21b728",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/aa_selection_005.py",
+    "original_relative_path": "scripts/icde_final_gate_004/aa_selection_005.py",
+    "original_sha256": "f1cd64d374a02eacb99213fbef082d0ecea5047bdd76e27082584ea60a0c8a9e",
+    "public_sha256": "f1cd64d374a02eacb99213fbef082d0ecea5047bdd76e27082584ea60a0c8a9e",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/archive_code.py",
+    "original_relative_path": "scripts/icde_final_gate_004/archive_code.py",
+    "original_sha256": "3d70508c053dca5f186c4b45eb74157232ecd799717ebdfd699189549db0242e",
+    "public_sha256": "3d70508c053dca5f186c4b45eb74157232ecd799717ebdfd699189549db0242e",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/binding_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/binding_001.py",
+    "original_sha256": "d3d2468f7fbdd95156a412bae3c17599789decd2c847f446c70223d9b8c97d21",
+    "public_sha256": "d3d2468f7fbdd95156a412bae3c17599789decd2c847f446c70223d9b8c97d21",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/cancel_duplicate_preflight_006.py",
+    "original_relative_path": "scripts/icde_final_gate_004/cancel_duplicate_preflight_006.py",
+    "original_sha256": "89a4d2f73f443d452a6dc4c63dd82030820fdd056d3b08c8e3f63ea1150b7743",
+    "public_sha256": "89a4d2f73f443d452a6dc4c63dd82030820fdd056d3b08c8e3f63ea1150b7743",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/close_run_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/close_run_001.py",
+    "original_sha256": "aad47403cf1c0d6215506700e428f8127c4394e27e9b7895c9f4e7babf70e3bb",
+    "public_sha256": "b6b30893085382313dcb786695853720481bba8000a660abd5c48f3a9dc49c1d",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/common.py",
+    "original_relative_path": "scripts/icde_final_gate_004/common.py",
+    "original_sha256": "6b521973743251de7fbb6038b80721f0be8968d83c485be15ae8455cac11dc65",
+    "public_sha256": "ed7b5732f673bfb1d6e47d866a752b19f563576f904bc3cbb1a43d001f6bc837",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/domain_postgate_009.py",
+    "original_relative_path": "scripts/icde_final_gate_004/domain_postgate_009.py",
+    "original_sha256": "7db1e2cba5327e4f91629c44fcf4d88625af0f0d16861e435c53aeae243647ab",
+    "public_sha256": "7db1e2cba5327e4f91629c44fcf4d88625af0f0d16861e435c53aeae243647ab",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/domain_stream_analyze_002.py",
+    "original_relative_path": "scripts/icde_final_gate_004/domain_stream_analyze_002.py",
+    "original_sha256": "bf36069371525c4650ade0c42e2a1191992d247e44fcf5de44ea7412f73bafec",
+    "public_sha256": "bf36069371525c4650ade0c42e2a1191992d247e44fcf5de44ea7412f73bafec",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/engine_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/engine_001.py",
+    "original_sha256": "fed82a7847f95ea6c9c2ba5b0d5fbce4f543087d7229938fbfcf4d663f35aafe",
+    "public_sha256": "fed82a7847f95ea6c9c2ba5b0d5fbce4f543087d7229938fbfcf4d663f35aafe",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/execution_lock_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/execution_lock_001.py",
+    "original_sha256": "bd736c2acfc4af974a0734d8554c8f0b3f96b842c873852fcd67cf9ef250b92f",
+    "public_sha256": "bd736c2acfc4af974a0734d8554c8f0b3f96b842c873852fcd67cf9ef250b92f",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/finance_resume_002.py",
+    "original_relative_path": "scripts/icde_final_gate_004/finance_resume_002.py",
+    "original_sha256": "761e9eb99b04485667a3ae55a6003ace9934485c95bc4edfda70a972a37a5edf",
+    "public_sha256": "761e9eb99b04485667a3ae55a6003ace9934485c95bc4edfda70a972a37a5edf",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/frontier_math.py",
+    "original_relative_path": "scripts/icde_final_gate_004/frontier_math.py",
+    "original_sha256": "f25b4c990a3c0c0ed9270782bdb2d981a046a3e8611b801660d08ab28457b5b9",
+    "public_sha256": "f25b4c990a3c0c0ed9270782bdb2d981a046a3e8611b801660d08ab28457b5b9",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/hr_postgate_008.py",
+    "original_relative_path": "scripts/icde_final_gate_004/hr_postgate_008.py",
+    "original_sha256": "0d5161a66af000193f712f43281423d43e4119135ddadeade8a32fa2caf111e2",
+    "public_sha256": "0d5161a66af000193f712f43281423d43e4119135ddadeade8a32fa2caf111e2",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/hr_stream_analyze_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/hr_stream_analyze_001.py",
+    "original_sha256": "0689b70f4d8ba70ed6b1ebc49cfa49c1974751585ffcc20aca6c74cc8b62ac95",
+    "public_sha256": "0689b70f4d8ba70ed6b1ebc49cfa49c1974751585ffcc20aca6c74cc8b62ac95",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/idle_wait_004.py",
+    "original_relative_path": "scripts/icde_final_gate_004/idle_wait_004.py",
+    "original_sha256": "20ac457023e15fc3e1703cc7a3da9021ceb6c90bf45b9485f7517b2d4fdabc2b",
+    "public_sha256": "20ac457023e15fc3e1703cc7a3da9021ceb6c90bf45b9485f7517b2d4fdabc2b",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/input_schema_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/input_schema_001.py",
+    "original_sha256": "0fc1eafa19c8916531da7f8c34f7a17d2d5ebc061b0f53bfc44ea0d8097fb0e8",
+    "public_sha256": "0fc1eafa19c8916531da7f8c34f7a17d2d5ebc061b0f53bfc44ea0d8097fb0e8",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/learning_base_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/learning_base_001.py",
+    "original_sha256": "05bbd89d94fc1ce6862fd18a50ff33daf7ad21a0a664f877942276fb03464978",
+    "public_sha256": "05bbd89d94fc1ce6862fd18a50ff33daf7ad21a0a664f877942276fb03464978",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/ownership_audit_006.py",
+    "original_relative_path": "scripts/icde_final_gate_004/ownership_audit_006.py",
+    "original_sha256": "3ae0d835e269420805cec921ed247d90cdbcd50d97bd96298348c469a16a1d59",
+    "public_sha256": "3ae0d835e269420805cec921ed247d90cdbcd50d97bd96298348c469a16a1d59",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/paper_materials_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/paper_materials_001.py",
+    "original_sha256": "5517d0c00c22b77444e37774a3e2ea4edfee3a4094fd7fa2a6a15c68e6df9ae5",
+    "public_sha256": "5517d0c00c22b77444e37774a3e2ea4edfee3a4094fd7fa2a6a15c68e6df9ae5",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/paper_materials_002.py",
+    "original_relative_path": "scripts/icde_final_gate_004/paper_materials_002.py",
+    "original_sha256": "b43b2d7b95f759a031dfc3c52323dd775b898479d0f225184c3942f539ec4a8d",
+    "public_sha256": "b43b2d7b95f759a031dfc3c52323dd775b898479d0f225184c3942f539ec4a8d",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/pharma_resource_resume_007.py",
+    "original_relative_path": "scripts/icde_final_gate_004/pharma_resource_resume_007.py",
+    "original_sha256": "c3d2cbbda2f397407eac8775d879c9251ebafe2dcf3a95f8aa900d8f4b857b50",
+    "public_sha256": "c3d2cbbda2f397407eac8775d879c9251ebafe2dcf3a95f8aa900d8f4b857b50",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/postgate_driver_004.py",
+    "original_relative_path": "scripts/icde_final_gate_004/postgate_driver_004.py",
+    "original_sha256": "cdbd23a2eba3d708b9784a2a7af54d9f6b49eb5e1c52f42c7d1d71d0c225c5dc",
+    "public_sha256": "cdbd23a2eba3d708b9784a2a7af54d9f6b49eb5e1c52f42c7d1d71d0c225c5dc",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/replot_aa_006.py",
+    "original_relative_path": "scripts/icde_final_gate_004/replot_aa_006.py",
+    "original_sha256": "c3b1e948b9257a911a0feac6b7f52517e65c9587aedaf4196441cfa897ad1684",
+    "public_sha256": "c3b1e948b9257a911a0feac6b7f52517e65c9587aedaf4196441cfa897ad1684",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/reproduce_cpu_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/reproduce_cpu_001.py",
+    "original_sha256": "3a02f8ebd57c508ccc944a076a3210a0d63ca5743b98bc0c48ac41c0aea928e5",
+    "public_sha256": "3a02f8ebd57c508ccc944a076a3210a0d63ca5743b98bc0c48ac41c0aea928e5",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/resident_analyze_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/resident_analyze_001.py",
+    "original_sha256": "c328b1aeed38ad57aefe4b9b2ccf80999267afdc3f4673afc889a598c8ec71e0",
+    "public_sha256": "c328b1aeed38ad57aefe4b9b2ccf80999267afdc3f4673afc889a598c8ec71e0",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/resident_analyze_002.py",
+    "original_relative_path": "scripts/icde_final_gate_004/resident_analyze_002.py",
+    "original_sha256": "c628a246c3534fd71071c48418137bc4c03c3d4c25dbe37a438023f6c998b2b2",
+    "public_sha256": "c628a246c3534fd71071c48418137bc4c03c3d4c25dbe37a438023f6c998b2b2",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/resident_driver_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/resident_driver_001.py",
+    "original_sha256": "d05f28be541e3929a926cd634da86976101f59d918201b31a80a5a6e21790c69",
+    "public_sha256": "d05f28be541e3929a926cd634da86976101f59d918201b31a80a5a6e21790c69",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/resident_worker_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/resident_worker_001.py",
+    "original_sha256": "abab08490db2be4abd54752ec48b42d4a40b14fdaef56db5a0a18d15f2c50bd6",
+    "public_sha256": "abab08490db2be4abd54752ec48b42d4a40b14fdaef56db5a0a18d15f2c50bd6",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/resource_resume_003.py",
+    "original_relative_path": "scripts/icde_final_gate_004/resource_resume_003.py",
+    "original_sha256": "e9db43c69f401af5fe884f84c739f842326b87e425db0ebdb6bc6c1aef68a43b",
+    "public_sha256": "e9db43c69f401af5fe884f84c739f842326b87e425db0ebdb6bc6c1aef68a43b",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/resume_remaining_005.py",
+    "original_relative_path": "scripts/icde_final_gate_004/resume_remaining_005.py",
+    "original_sha256": "b6b1798fbabaf5d0e62b0ac4a29a3017b06be85fa2e5c2151395b1b44147d975",
+    "public_sha256": "b6b1798fbabaf5d0e62b0ac4a29a3017b06be85fa2e5c2151395b1b44147d975",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/s0_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/s0_001.py",
+    "original_sha256": "f60fa8a3189000012a4c3575bef3b90289c89d33105a8c0025a42da59168b24a",
+    "public_sha256": "f60fa8a3189000012a4c3575bef3b90289c89d33105a8c0025a42da59168b24a",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/s1_finalize_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/s1_finalize_001.py",
+    "original_sha256": "fb7fe173ba6197fdfe564424db81464afab66e9079d30f9b31e5fd1fd5cbc22b",
+    "public_sha256": "fb7fe173ba6197fdfe564424db81464afab66e9079d30f9b31e5fd1fd5cbc22b",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/s1_finalize_002.py",
+    "original_relative_path": "scripts/icde_final_gate_004/s1_finalize_002.py",
+    "original_sha256": "198d0d278ac832cbef7c3d32c34207350929cb17eb8b90eff3988fc87e3fd853",
+    "public_sha256": "198d0d278ac832cbef7c3d32c34207350929cb17eb8b90eff3988fc87e3fd853",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/s1_prepare_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/s1_prepare_001.py",
+    "original_sha256": "f7a06cb7718afc1ed0682d11c910f4eeb90bbe3f06803af7205f5f369f5c44a4",
+    "public_sha256": "f7a06cb7718afc1ed0682d11c910f4eeb90bbe3f06803af7205f5f369f5c44a4",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/s2_analyze_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/s2_analyze_001.py",
+    "original_sha256": "c4a9ae0892220717ff8d60843b7b13197bd5fb6a885ea38a867983097a3620dd",
+    "public_sha256": "c4a9ae0892220717ff8d60843b7b13197bd5fb6a885ea38a867983097a3620dd",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/s2_finalize_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/s2_finalize_001.py",
+    "original_sha256": "e319fe76c9667bb25b67a2533aab7761cf9909d6a770249f0c300431bc480583",
+    "public_sha256": "e319fe76c9667bb25b67a2533aab7761cf9909d6a770249f0c300431bc480583",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/s2_finalize_002.py",
+    "original_relative_path": "scripts/icde_final_gate_004/s2_finalize_002.py",
+    "original_sha256": "e899c50e1480d4c12175d595538a5c25bbca902b344b0b1f1d5b1536d2728979",
+    "public_sha256": "e899c50e1480d4c12175d595538a5c25bbca902b344b0b1f1d5b1536d2728979",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/s2_prepare_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/s2_prepare_001.py",
+    "original_sha256": "c5709ba76b8c6e5cd78860e51de35f751e8f6e5f317d523f49228f414eb13d9f",
+    "public_sha256": "c5709ba76b8c6e5cd78860e51de35f751e8f6e5f317d523f49228f414eb13d9f",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/s3_finalize_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/s3_finalize_001.py",
+    "original_sha256": "f796841c2af8f7615912625aa9fc4e62b1cedd2dc8a6c6dcc0ecf7e22175bf75",
+    "public_sha256": "f796841c2af8f7615912625aa9fc4e62b1cedd2dc8a6c6dcc0ecf7e22175bf75",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/s3_finalize_002.py",
+    "original_relative_path": "scripts/icde_final_gate_004/s3_finalize_002.py",
+    "original_sha256": "759dfd10b2a791fed69dfb53a1cc54ec6e2627f194abbe80e8e8ed6874239f54",
+    "public_sha256": "759dfd10b2a791fed69dfb53a1cc54ec6e2627f194abbe80e8e8ed6874239f54",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/s3_prepare_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/s3_prepare_001.py",
+    "original_sha256": "50f9cc19abb111159a6713b7eff36d6243299cd1aee39aaf251738ff931cdd2e",
+    "public_sha256": "50f9cc19abb111159a6713b7eff36d6243299cd1aee39aaf251738ff931cdd2e",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/s3_source_diagnostic_002.py",
+    "original_relative_path": "scripts/icde_final_gate_004/s3_source_diagnostic_002.py",
+    "original_sha256": "9f01ee16c23e9760b3c92b2859e5f6abe6c3b9caabeeb34610ba8f49e26fcc2d",
+    "public_sha256": "9f01ee16c23e9760b3c92b2859e5f6abe6c3b9caabeeb34610ba8f49e26fcc2d",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/s4_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/s4_001.py",
+    "original_sha256": "98f340cf28b20d5b2549e58f5282cf1e9b24ef621c043ca55d10a8e4ac710700",
+    "public_sha256": "98f340cf28b20d5b2549e58f5282cf1e9b24ef621c043ca55d10a8e4ac710700",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/stream_driver_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/stream_driver_001.py",
+    "original_sha256": "a29b8a2cf1c19abd136b7c95fd034a9856695dd63d6e19f59df51958d093243a",
+    "public_sha256": "a29b8a2cf1c19abd136b7c95fd034a9856695dd63d6e19f59df51958d093243a",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/stream_incomplete_analysis_003.py",
+    "original_relative_path": "scripts/icde_final_gate_004/stream_incomplete_analysis_003.py",
+    "original_sha256": "53c2d77a0e5e184e4ec4e1870580cf8e57ec46297031d407c74b666334dc2307",
+    "public_sha256": "53c2d77a0e5e184e4ec4e1870580cf8e57ec46297031d407c74b666334dc2307",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/stream_worker_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/stream_worker_001.py",
+    "original_sha256": "6803b59c72ac552c1475acec56255632821056c909f0a36b6857213e03df7984",
+    "public_sha256": "6803b59c72ac552c1475acec56255632821056c909f0a36b6857213e03df7984",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/stream_worker_002.py",
+    "original_relative_path": "scripts/icde_final_gate_004/stream_worker_002.py",
+    "original_sha256": "94a948109d84a318a006fef59bd8bf682a65b604fbd562035f0f5fbbafab26aa",
+    "public_sha256": "94a948109d84a318a006fef59bd8bf682a65b604fbd562035f0f5fbbafab26aa",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/stream_worker_003.py",
+    "original_relative_path": "scripts/icde_final_gate_004/stream_worker_003.py",
+    "original_sha256": "7a511f44ce2d207be3ac7759429082a5121d33388f167f68b21d1c3a74e0ad04",
+    "public_sha256": "7a511f44ce2d207be3ac7759429082a5121d33388f167f68b21d1c3a74e0ad04",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/stream_worker_004.py",
+    "original_relative_path": "scripts/icde_final_gate_004/stream_worker_004.py",
+    "original_sha256": "1f99fc2048c38247cca4d1f3bbfba1420b505a039519e2e566b017b935b06fb5",
+    "public_sha256": "1f99fc2048c38247cca4d1f3bbfba1420b505a039519e2e566b017b935b06fb5",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/stream_worker_005.py",
+    "original_relative_path": "scripts/icde_final_gate_004/stream_worker_005.py",
+    "original_sha256": "4cbfbb30e498de98387f7ebc135f3f16925a28807925185fc3a46eac8301588d",
+    "public_sha256": "4cbfbb30e498de98387f7ebc135f3f16925a28807925185fc3a46eac8301588d",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/update_status_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/update_status_001.py",
+    "original_sha256": "54922ff0c0d5176f907546ac798a9e82136afee2af3cfe32b952a6b6e5d8294c",
+    "public_sha256": "54922ff0c0d5176f907546ac798a9e82136afee2af3cfe32b952a6b6e5d8294c",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_final_gate_004/verify_reproduction_001.py",
+    "original_relative_path": "scripts/icde_final_gate_004/verify_reproduction_001.py",
+    "original_sha256": "c0d35d2fbdceacc14f7931068fb9a580c37412e2cabf229d9f53f2d0dc128127",
+    "public_sha256": "c0d35d2fbdceacc14f7931068fb9a580c37412e2cabf229d9f53f2d0dc128127",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a0_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a0_001.py",
+    "original_sha256": "b5798d5197af9004e987237ca56da6b34ab7a346be8022494e2c7d86a927fbd8",
+    "public_sha256": "b5798d5197af9004e987237ca56da6b34ab7a346be8022494e2c7d86a927fbd8",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a1_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a1_001.py",
+    "original_sha256": "43a33db5e86e481f9ed84c25fa582469628e54fe139dcde0d33d0c4d31ee0637",
+    "public_sha256": "43a33db5e86e481f9ed84c25fa582469628e54fe139dcde0d33d0c4d31ee0637",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a2_continue_004.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a2_continue_004.py",
+    "original_sha256": "4901bb7a4f3c3a2a8f1ebd2a74134089e47e4ae098f6deb72a2fa0c2d7df466d",
+    "public_sha256": "4901bb7a4f3c3a2a8f1ebd2a74134089e47e4ae098f6deb72a2fa0c2d7df466d",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a2_continue_005.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a2_continue_005.py",
+    "original_sha256": "6229119faf0616ca2d4948046041231a49dbfd009d3c5b7958a559d29d1b90c7",
+    "public_sha256": "6229119faf0616ca2d4948046041231a49dbfd009d3c5b7958a559d29d1b90c7",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a2_driver_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a2_driver_001.py",
+    "original_sha256": "c16047efe9d8695ed202c04a15a857d9130e0667209ef58edb08dae1c2f90354",
+    "public_sha256": "c16047efe9d8695ed202c04a15a857d9130e0667209ef58edb08dae1c2f90354",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a2_driver_003.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a2_driver_003.py",
+    "original_sha256": "a52d9717ceddb881675558d09382e41f07db7fad70d2cd5a3f19ebc83097c62e",
+    "public_sha256": "a52d9717ceddb881675558d09382e41f07db7fad70d2cd5a3f19ebc83097c62e",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a2_finalize_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a2_finalize_001.py",
+    "original_sha256": "8b80f63658584d7243195de4468a1ea14e2625987aacdb10d2e7408b50e18bf6",
+    "public_sha256": "8b80f63658584d7243195de4468a1ea14e2625987aacdb10d2e7408b50e18bf6",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a2_finalize_002.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a2_finalize_002.py",
+    "original_sha256": "1d8f60a2f7942188d82a7b730c7862ccf2a2f7fe0139b3a7e19b6f1f20645ac1",
+    "public_sha256": "1d8f60a2f7942188d82a7b730c7862ccf2a2f7fe0139b3a7e19b6f1f20645ac1",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a2_finalize_003.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a2_finalize_003.py",
+    "original_sha256": "076ce71f6cf2a411ae4d9d9c6ac680c95596ba486209a7906520469f3eb272d7",
+    "public_sha256": "076ce71f6cf2a411ae4d9d9c6ac680c95596ba486209a7906520469f3eb272d7",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a2_policy_analysis_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a2_policy_analysis_001.py",
+    "original_sha256": "2cbdeda793646446e602a45b11fd64969fed98a113feaf6bbd4c3a31abb4ab2d",
+    "public_sha256": "2cbdeda793646446e602a45b11fd64969fed98a113feaf6bbd4c3a31abb4ab2d",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a2_prepare_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a2_prepare_001.py",
+    "original_sha256": "05a34bbc04592724241dee8e6a5394930dbbd83479a9d08b4d3d173a798a8c24",
+    "public_sha256": "05a34bbc04592724241dee8e6a5394930dbbd83479a9d08b4d3d173a798a8c24",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a2_reporting_numbers_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a2_reporting_numbers_001.py",
+    "original_sha256": "6863fbee727df5854aa70f84630b629f93d2e47161d9b8a3cc198483079f9bf4",
+    "public_sha256": "6863fbee727df5854aa70f84630b629f93d2e47161d9b8a3cc198483079f9bf4",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a2_reporting_numbers_002.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a2_reporting_numbers_002.py",
+    "original_sha256": "ca87ab8fca2ddedc2c7369107a9fd5017722e98decba79efb2711fc26412fcb4",
+    "public_sha256": "ca87ab8fca2ddedc2c7369107a9fd5017722e98decba79efb2711fc26412fcb4",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a2_telemetry_diagnostics_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a2_telemetry_diagnostics_001.py",
+    "original_sha256": "c9d43e83354c6ac78dcd4979089940fce3893743d0bea9da96b483b61c6bdeae",
+    "public_sha256": "c9d43e83354c6ac78dcd4979089940fce3893743d0bea9da96b483b61c6bdeae",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a2_trace_analysis_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a2_trace_analysis_001.py",
+    "original_sha256": "c3d8a88edd564ef2c47b8e81c25868e023ebca14b699d1edf0a7a47e6d3ca39f",
+    "public_sha256": "c3d8a88edd564ef2c47b8e81c25868e023ebca14b699d1edf0a7a47e6d3ca39f",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a3_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a3_001.py",
+    "original_sha256": "25ccbe983af39c29e252dae46b6e9f17c2f6ec9320d96e8687502df917e4f354",
+    "public_sha256": "25ccbe983af39c29e252dae46b6e9f17c2f6ec9320d96e8687502df917e4f354",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a4_finalize_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a4_finalize_001.py",
+    "original_sha256": "3ae0d1ba19fd385737da6237075b04a0b2de84c8a47a94e9d8d362d721f048e0",
+    "public_sha256": "3ae0d1ba19fd385737da6237075b04a0b2de84c8a47a94e9d8d362d721f048e0",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a4_finalize_002.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a4_finalize_002.py",
+    "original_sha256": "0e98113f2e24bb5ae850ec97625623b9e3e7d9496c8a4835f75d9350fee2b026",
+    "public_sha256": "0e98113f2e24bb5ae850ec97625623b9e3e7d9496c8a4835f75d9350fee2b026",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a4_finalize_003.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a4_finalize_003.py",
+    "original_sha256": "06c621d8cf1ccd919693db736fedff893417b136b66e7234a6f91075f23b0c00",
+    "public_sha256": "06c621d8cf1ccd919693db736fedff893417b136b66e7234a6f91075f23b0c00",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a4_prepare_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a4_prepare_001.py",
+    "original_sha256": "b3fd4df65bd9a95f14db4781c4c7b0570eb5b3de39e08d21e63988a79e185293",
+    "public_sha256": "b3fd4df65bd9a95f14db4781c4c7b0570eb5b3de39e08d21e63988a79e185293",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/a4_prepare_002.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/a4_prepare_002.py",
+    "original_sha256": "9cfd63ce6ef374021f025df7bd6f49040a91fb6c907ea1319d2462e08b7ab746",
+    "public_sha256": "9cfd63ce6ef374021f025df7bd6f49040a91fb6c907ea1319d2462e08b7ab746",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/aa_figure_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/aa_figure_001.py",
+    "original_sha256": "bc1c8f36c50948b52b580ba76b5da90acc77a429e4896a90e4b1373f0c9465fa",
+    "public_sha256": "bc1c8f36c50948b52b580ba76b5da90acc77a429e4896a90e4b1373f0c9465fa",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/acquire_unlabeled_corpus_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/acquire_unlabeled_corpus_001.py",
+    "original_sha256": "36ed62b8df91a7a891a788cf0f9fb356a7de7e9714666c47e7b1745e663fb546",
+    "public_sha256": "36ed62b8df91a7a891a788cf0f9fb356a7de7e9714666c47e7b1745e663fb546",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/archive_code.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/archive_code.py",
+    "original_sha256": "0ac05cdc872349d137ce8fd917fa5a11cf16c044fd34deaab735687ddf47f0ea",
+    "public_sha256": "0ac05cdc872349d137ce8fd917fa5a11cf16c044fd34deaab735687ddf47f0ea",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/benchmark_addendum_002.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/benchmark_addendum_002.py",
+    "original_sha256": "8586c1cbd516364752ea6cd392ae9812a8aab851fbad269308715184008908d0",
+    "public_sha256": "8586c1cbd516364752ea6cd392ae9812a8aab851fbad269308715184008908d0",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/close_run_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/close_run_001.py",
+    "original_sha256": "df4602115666f427783c790d1d6a2cec84f55ba472daa00c09ad8e33909411c3",
+    "public_sha256": "df4602115666f427783c790d1d6a2cec84f55ba472daa00c09ad8e33909411c3",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/close_run_002.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/close_run_002.py",
+    "original_sha256": "0d6780182f9a52bedffa93c6fbeac3b51e97b888e629ad6736eb56d8c84e00e0",
+    "public_sha256": "0d6780182f9a52bedffa93c6fbeac3b51e97b888e629ad6736eb56d8c84e00e0",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/common.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/common.py",
+    "original_sha256": "31558e97ef2ae2e69d0ed257ba1a2d9882310f11a36a6fcee1061b764fc91935",
+    "public_sha256": "b641645dd4381fc81a6f8e7e4456a6d012ac73fb0926d2c8f2fc9337d4d9e5f2",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/engine_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/engine_001.py",
+    "original_sha256": "fed82a7847f95ea6c9c2ba5b0d5fbce4f543087d7229938fbfcf4d663f35aafe",
+    "public_sha256": "fed82a7847f95ea6c9c2ba5b0d5fbce4f543087d7229938fbfcf4d663f35aafe",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/error_text_cases_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/error_text_cases_001.py",
+    "original_sha256": "2b47a777738d035328985ea22e710a4a1aa34aa191a1300e75c6daa6d8e916b9",
+    "public_sha256": "2b47a777738d035328985ea22e710a4a1aa34aa191a1300e75c6daa6d8e916b9",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/eval_analysis_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/eval_analysis_001.py",
+    "original_sha256": "29c31703411ad2b137bd43d17ce6c040b70f43625eef08da262bb7125aec2034",
+    "public_sha256": "29c31703411ad2b137bd43d17ce6c040b70f43625eef08da262bb7125aec2034",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/frontier_math.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/frontier_math.py",
+    "original_sha256": "f25b4c990a3c0c0ed9270782bdb2d981a046a3e8611b801660d08ab28457b5b9",
+    "public_sha256": "f25b4c990a3c0c0ed9270782bdb2d981a046a3e8611b801660d08ab28457b5b9",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/idle_wait_004.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/idle_wait_004.py",
+    "original_sha256": "20ac457023e15fc3e1703cc7a3da9021ceb6c90bf45b9485f7517b2d4fdabc2b",
+    "public_sha256": "20ac457023e15fc3e1703cc7a3da9021ceb6c90bf45b9485f7517b2d4fdabc2b",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/learning_base_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/learning_base_001.py",
+    "original_sha256": "05bbd89d94fc1ce6862fd18a50ff33daf7ad21a0a664f877942276fb03464978",
+    "public_sha256": "05bbd89d94fc1ce6862fd18a50ff33daf7ad21a0a664f877942276fb03464978",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/rebuild_main_table_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/rebuild_main_table_001.py",
+    "original_sha256": "99465f95e57eb94cb0326ef824b498bf09dd8013aebdef3d0ec922cd9ab3e6d1",
+    "public_sha256": "99465f95e57eb94cb0326ef824b498bf09dd8013aebdef3d0ec922cd9ab3e6d1",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/render_paper_figures_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/render_paper_figures_001.py",
+    "original_sha256": "7250a7bb167055e53a5a5c169471f4ef69771283816dcb6df8e1fd075163bafb",
+    "public_sha256": "7250a7bb167055e53a5a5c169471f4ef69771283816dcb6df8e1fd075163bafb",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/render_paper_figures_002.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/render_paper_figures_002.py",
+    "original_sha256": "73d133aa9ab939951aa99a524d995a009b2dc56bb4b9658da84f1b4cacb905db",
+    "public_sha256": "73d133aa9ab939951aa99a524d995a009b2dc56bb4b9658da84f1b4cacb905db",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/replot_components_002.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/replot_components_002.py",
+    "original_sha256": "cd25b1c9a4af0cf9375d6ab38fab7c0e49f143ee85384a0901170f464bc60ecb",
+    "public_sha256": "cd25b1c9a4af0cf9375d6ab38fab7c0e49f143ee85384a0901170f464bc60ecb",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/reproduce_a1_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/reproduce_a1_001.py",
+    "original_sha256": "87c106f25930002eec165894abe599e1a38204e15adc252ecc10bd660000dba0",
+    "public_sha256": "87c106f25930002eec165894abe599e1a38204e15adc252ecc10bd660000dba0",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/reproduction_prepare_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/reproduction_prepare_001.py",
+    "original_sha256": "0e61191585563e8a5e1071b4533a14a7606b89e082e494bae51a5fbd6c6e99a8",
+    "public_sha256": "0e61191585563e8a5e1071b4533a14a7606b89e082e494bae51a5fbd6c6e99a8",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/reproduction_prepare_002.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/reproduction_prepare_002.py",
+    "original_sha256": "2db3905717e5a7d30111eadca038ba6b8cde4698771c49dc6a063176cf311cb4",
+    "public_sha256": "2db3905717e5a7d30111eadca038ba6b8cde4698771c49dc6a063176cf311cb4",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/reproduction_sources_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/reproduction_sources_001.py",
+    "original_sha256": "2daab1fed51b912280b20d52a869ed01b72a681730408f09c066dcf0bba571e7",
+    "public_sha256": "2daab1fed51b912280b20d52a869ed01b72a681730408f09c066dcf0bba571e7",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/stop_pre_cuda_driver_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/stop_pre_cuda_driver_001.py",
+    "original_sha256": "d3dd66a58a9e183925361f88d682b592f26eba3cb33a6444ba34bc461a20dc88",
+    "public_sha256": "d3dd66a58a9e183925361f88d682b592f26eba3cb33a6444ba34bc461a20dc88",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/stream_worker_v3_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/stream_worker_v3_001.py",
+    "original_sha256": "6e44583b6a2ee1e27c48ee99babdd2171ec773db2befc339c27c284f314cb5d4",
+    "public_sha256": "6e44583b6a2ee1e27c48ee99babdd2171ec773db2befc339c27c284f314cb5d4",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/sync_status_001.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/sync_status_001.py",
+    "original_sha256": "85ee4af1bb30a3cc9fee81597ec98c09688516b6bab3bb7ae38dced890e0a7fc",
+    "public_sha256": "85ee4af1bb30a3cc9fee81597ec98c09688516b6bab3bb7ae38dced890e0a7fc",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_validation_005/sync_status_002.py",
+    "original_relative_path": "scripts/icde_eab_validation_005/sync_status_002.py",
+    "original_sha256": "5526d8119a6060ab24408b9a11ddcac3eb8d8a3093434a3d32301e577becebc5",
+    "public_sha256": "5526d8119a6060ab24408b9a11ddcac3eb8d8a3093434a3d32301e577becebc5",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/archive_code.py",
+    "original_relative_path": "scripts/icde_eab_main_006/archive_code.py",
+    "original_sha256": "c6bf6e337e02bfef5a61635b5763c9d92f26398931046b73dd33c4c1f7589112",
+    "public_sha256": "c6bf6e337e02bfef5a61635b5763c9d92f26398931046b73dd33c4c1f7589112",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/close_run_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/close_run_001.py",
+    "original_sha256": "325badbf1ac86b22d8aa60c19847f31f7af8ac619948f74b5ccdd666103b2334",
+    "public_sha256": "325badbf1ac86b22d8aa60c19847f31f7af8ac619948f74b5ccdd666103b2334",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/close_run_002.py",
+    "original_relative_path": "scripts/icde_eab_main_006/close_run_002.py",
+    "original_sha256": "fe0f9e32b59b56567e4c5591f9bb521d3ddcaa00ce6a0ddc05da158ce5197c41",
+    "public_sha256": "fe0f9e32b59b56567e4c5591f9bb521d3ddcaa00ce6a0ddc05da158ce5197c41",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/colpali_loader_002.py",
+    "original_relative_path": "scripts/icde_eab_main_006/colpali_loader_002.py",
+    "original_sha256": "8e095f039a440b674bfd30377940fe74c0f1a3339816f0d62a730cb1cea88423",
+    "public_sha256": "8e095f039a440b674bfd30377940fe74c0f1a3339816f0d62a730cb1cea88423",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/colpali_loader_003.py",
+    "original_relative_path": "scripts/icde_eab_main_006/colpali_loader_003.py",
+    "original_sha256": "b7516c98cc2b1f9163d3c8f675cc2e2e57b655f5176c8f4403e5dc11d430935d",
+    "public_sha256": "b7516c98cc2b1f9163d3c8f675cc2e2e57b655f5176c8f4403e5dc11d430935d",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/common.py",
+    "original_relative_path": "scripts/icde_eab_main_006/common.py",
+    "original_sha256": "95c0242ac9243b90753ecff88d54ea5c7bb62ae0f5ba91cb20c56cf0e361db00",
+    "public_sha256": "307571b1edcb7c93430ee3627c987c4e54c9f05845ce062eb7dbd1f89501ba50",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/data_guard.py",
+    "original_relative_path": "scripts/icde_eab_main_006/data_guard.py",
+    "original_sha256": "7a55f53c532ca53dbfb1f7487cd9705ca1ccd7b4d14ce69bc1b6303ccfd112cd",
+    "public_sha256": "7a55f53c532ca53dbfb1f7487cd9705ca1ccd7b4d14ce69bc1b6303ccfd112cd",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/inspect_adapter_keys_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/inspect_adapter_keys_001.py",
+    "original_sha256": "6c6a50601adfee95dfa239a581b44bfcd337f9bbe93d8ab673a293179338db43",
+    "public_sha256": "3f0a54ac50d0352e8dfe1255fbf3a43c04c8702c1a987c50597281fb796ae5d5",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/paper_assemble_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/paper_assemble_001.py",
+    "original_sha256": "c9539f8848f772269f5c8d1c6dbccf29f7e3658d1b651fce72b49e7c16573b33",
+    "public_sha256": "c9539f8848f772269f5c8d1c6dbccf29f7e3658d1b651fce72b49e7c16573b33",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/paper_expand_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/paper_expand_001.py",
+    "original_sha256": "4e3c002beef5e6210f538500ca5eba1b3aff7474be2229fcfb3665acbb2ed30e",
+    "public_sha256": "4e3c002beef5e6210f538500ca5eba1b3aff7474be2229fcfb3665acbb2ed30e",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/resource_monitor_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/resource_monitor_001.py",
+    "original_sha256": "f47ec227b18b9e3cb3246a46d7f5a3acf57f3f88c62579b85ebb661c56f86c0e",
+    "public_sha256": "f47ec227b18b9e3cb3246a46d7f5a3acf57f3f88c62579b85ebb661c56f86c0e",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/sync_status_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/sync_status_001.py",
+    "original_sha256": "e3a09299acd6c0f107b30e9f11275c870ddbe6cf674b9201324a2791a95e44e1",
+    "public_sha256": "e3a09299acd6c0f107b30e9f11275c870ddbe6cf674b9201324a2791a95e44e1",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x0_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x0_001.py",
+    "original_sha256": "2ac7691356a9649f71addb45288c5790c860cf945791fe3383a948a23cac074e",
+    "public_sha256": "2ac7691356a9649f71addb45288c5790c860cf945791fe3383a948a23cac074e",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x1_cpu_loader_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x1_cpu_loader_001.py",
+    "original_sha256": "ce338015cb0685ea48ad8b33eb73d49684e683cdeb06add449969e6d9e95bf57",
+    "public_sha256": "ce338015cb0685ea48ad8b33eb73d49684e683cdeb06add449969e6d9e95bf57",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x1_cpu_loader_002.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x1_cpu_loader_002.py",
+    "original_sha256": "e7b3db4aa45a593cfd19949a309fd00e567119917c55ae0056b95e6f6466b2ce",
+    "public_sha256": "e7b3db4aa45a593cfd19949a309fd00e567119917c55ae0056b95e6f6466b2ce",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x1_cpu_loader_003.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x1_cpu_loader_003.py",
+    "original_sha256": "68f64a0730a75ab5bd2ddea3cc695598125ba1bab4ffec469642d2c2c4c8c1a3",
+    "public_sha256": "68f64a0730a75ab5bd2ddea3cc695598125ba1bab4ffec469642d2c2c4c8c1a3",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x1_driver_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x1_driver_001.py",
+    "original_sha256": "91a245bff4102e47dbd8a30e8b697e2ee6a5738b2536fcf378624e332efa1f33",
+    "public_sha256": "91a245bff4102e47dbd8a30e8b697e2ee6a5738b2536fcf378624e332efa1f33",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x1_driver_002.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x1_driver_002.py",
+    "original_sha256": "2165f9e7ba0c64f09bdc9ccc7adcec6c8386e704060aa5f6d6222d2dfc380961",
+    "public_sha256": "2165f9e7ba0c64f09bdc9ccc7adcec6c8386e704060aa5f6d6222d2dfc380961",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x1_finalize_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x1_finalize_001.py",
+    "original_sha256": "be7bfb36c7390c691d276bb4bf75ded29657c3894bb0050492939ee0881796a3",
+    "public_sha256": "be7bfb36c7390c691d276bb4bf75ded29657c3894bb0050492939ee0881796a3",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x1_gpu_pilot_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x1_gpu_pilot_001.py",
+    "original_sha256": "acc3fbf151de1513aa99c1ef8500940edfcd30490dd1683b7b58d3f258317075",
+    "public_sha256": "acc3fbf151de1513aa99c1ef8500940edfcd30490dd1683b7b58d3f258317075",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x1_gpu_pilot_002.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x1_gpu_pilot_002.py",
+    "original_sha256": "86e4afbebecae581e9d06c74e16018629894c3ac748ea1531b7c8e90689e7423",
+    "public_sha256": "86e4afbebecae581e9d06c74e16018629894c3ac748ea1531b7c8e90689e7423",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x1_prepare_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x1_prepare_001.py",
+    "original_sha256": "b74c5cd3794ed1bcedb01eaa984f23c7be22e5a3199419672b6b41e077d2bce8",
+    "public_sha256": "e80be9c31dd5e4839ae8a1585fb021c1109e07a696b7fd328ee27bc33fb14739",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x2_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x2_001.py",
+    "original_sha256": "6ac212a54f3711f32ed5cc556d7857213d977ce02dceda7943bd0b855dc4393d",
+    "public_sha256": "6ac212a54f3711f32ed5cc556d7857213d977ce02dceda7943bd0b855dc4393d",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x2_002.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x2_002.py",
+    "original_sha256": "6c8a4b80dd47f5cb4a5ce6af1205d699e787efae74f78fb888248f129a87eaf0",
+    "public_sha256": "6c8a4b80dd47f5cb4a5ce6af1205d699e787efae74f78fb888248f129a87eaf0",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x2_setup_assets_003.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x2_setup_assets_003.py",
+    "original_sha256": "e679607d1f966aa40041fd94f043ba63a30254eaadef563d96422e98727f47c8",
+    "public_sha256": "e679607d1f966aa40041fd94f043ba63a30254eaadef563d96422e98727f47c8",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x3_external_audit_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x3_external_audit_001.py",
+    "original_sha256": "c543ee3143f1534ad4496539dd9f4b087318308b5eaed9110e5d2759641771f9",
+    "public_sha256": "c543ee3143f1534ad4496539dd9f4b087318308b5eaed9110e5d2759641771f9",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x3_finalize_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x3_finalize_001.py",
+    "original_sha256": "04c1473390c17a2effb26a9b808ff54fea8da5939fca2a9b757bb3d32c4d6d6e",
+    "public_sha256": "04c1473390c17a2effb26a9b808ff54fea8da5939fca2a9b757bb3d32c4d6d6e",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x3_mock_pipeline_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x3_mock_pipeline_001.py",
+    "original_sha256": "63a7bc99e82f535c23d4e674caaecb0b88098a1903e6e7bc2f6b566469f29e9a",
+    "public_sha256": "63a7bc99e82f535c23d4e674caaecb0b88098a1903e6e7bc2f6b566469f29e9a",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x3_prepare_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x3_prepare_001.py",
+    "original_sha256": "30edf7ba2263ec3a563f8769c07800594ec6937a053b3c401836b3d062c7a323",
+    "public_sha256": "30edf7ba2263ec3a563f8769c07800594ec6937a053b3c401836b3d062c7a323",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x4_finalize_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x4_finalize_001.py",
+    "original_sha256": "5b5cf8e171a9164b9e5b9e1328cc2d5e424462a6ee7ef333231cda130b0a1c95",
+    "public_sha256": "5b5cf8e171a9164b9e5b9e1328cc2d5e424462a6ee7ef333231cda130b0a1c95",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_main_006/x4_prepare_001.py",
+    "original_relative_path": "scripts/icde_eab_main_006/x4_prepare_001.py",
+    "original_sha256": "6e22352ef38f111cee5e74b96eee9b882f2f0b1eb925fbca185f4dbb5568ebe9",
+    "public_sha256": "c5e5976b6f3cd49378338b156506dbe1dbd8d0847513ba2e289b42e95f9138b9",
+    "changes": "Replace historical private endpoint/home literal rejection with general RFC1918/home-path predicate; preserve negative-test semantics, independently AST-tested. Original source hash retained."
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/abort_own_audit_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/abort_own_audit_001.py",
+    "original_sha256": "2b6d724757355362d90ab05ebdc6abfd719dd8d2411dbb753216cdecdfeee8f7",
+    "public_sha256": "2b6d724757355362d90ab05ebdc6abfd719dd8d2411dbb753216cdecdfeee8f7",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/acquire_public_assets_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/acquire_public_assets_001.py",
+    "original_sha256": "606d47241e464473ee179ac8ee5e794560fdf21d0d2b219a1e515cb225566f50",
+    "public_sha256": "606d47241e464473ee179ac8ee5e794560fdf21d0d2b219a1e515cb225566f50",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/archive_code.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/archive_code.py",
+    "original_sha256": "0bb2529ff3bb9183408088ad2a077934a3809831d26181860d4b9947954a62ba",
+    "public_sha256": "0bb2529ff3bb9183408088ad2a077934a3809831d26181860d4b9947954a62ba",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/biomedical_intermediate_digest_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/biomedical_intermediate_digest_001.py",
+    "original_sha256": "d42f6d1c064c6a75ea70dc21fedb161f73c818287d5f29a8d3f19d28146d005b",
+    "public_sha256": "d42f6d1c064c6a75ea70dc21fedb161f73c818287d5f29a8d3f19d28146d005b",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/candidate_prediction_diagnostic_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/candidate_prediction_diagnostic_001.py",
+    "original_sha256": "63c59f5ec3de0f03ef202090758f9568092e9462bb201e867786bb4d076a88f4",
+    "public_sha256": "63c59f5ec3de0f03ef202090758f9568092e9462bb201e867786bb4d076a88f4",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/colpali_loader_003.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/colpali_loader_003.py",
+    "original_sha256": "340384411eb5c12933d1dad58a609db54f7e99fd7570686d6c9265ecdb6df5be",
+    "public_sha256": "340384411eb5c12933d1dad58a609db54f7e99fd7570686d6c9265ecdb6df5be",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/common.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/common.py",
+    "original_sha256": "45f77bd14e60035cc27c6a4c03470ef3a59db2d3c26e4b95ff01c9fdcddaa9c6",
+    "public_sha256": "5b1ee14fe525382216cb86433d8825895896c3b87a7fb4be17b45c34285fd000",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/data_guard.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/data_guard.py",
+    "original_sha256": "d0209c7ea01ff5ee8b60b992d31d9ca272570d3ae5defc1454415945fba5b9e7",
+    "public_sha256": "d0209c7ea01ff5ee8b60b992d31d9ca272570d3ae5defc1454415945fba5b9e7",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/engine_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/engine_001.py",
+    "original_sha256": "fed82a7847f95ea6c9c2ba5b0d5fbce4f543087d7229938fbfcf4d663f35aafe",
+    "public_sha256": "fed82a7847f95ea6c9c2ba5b0d5fbce4f543087d7229938fbfcf4d663f35aafe",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/engine_exact_004.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/engine_exact_004.py",
+    "original_sha256": "9fcde5b1bfe83111ddf4a55d9bb0db46ae76468348b626e649af0e4e01c65fcb",
+    "public_sha256": "9fcde5b1bfe83111ddf4a55d9bb0db46ae76468348b626e649af0e4e01c65fcb",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/figures_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/figures_001.py",
+    "original_sha256": "3e8ee5b785f7f7b0b6b8b59102f43a9e5be5ecd12e9e6d17b5bf67d2b2b203c9",
+    "public_sha256": "29d8f221e4c73abdb703595c6c707f07300305a2e93d8c0754b771a162472008",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/figures_002.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/figures_002.py",
+    "original_sha256": "4e9439f700945cd00f9bc4475cd8bb2d67bf0a5f246469174cac6862279ee79d",
+    "public_sha256": "1cd9b55d7e4b79d43b3ac160dc670e3b7f1f34f7ea590610dd17d843d2f79dc2",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/figures_003.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/figures_003.py",
+    "original_sha256": "c118c972646a5933052d8826b0d3b5458506153df7beb3757d5ed9c56473857c",
+    "public_sha256": "6c4081d0edfa8c08108cd226917d37e8b755c2b9b595b02731b4a93692c4e1db",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/final_close_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/final_close_001.py",
+    "original_sha256": "b213efc6856c00807977d30c70b8dc845fba4ab5942f604866978e1070deb366",
+    "public_sha256": "1e80e973acabdf5fecc5aaf6e292c91c9797573aafb1ead677c4ed4e55e7b809",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/inspect_allowed_roles_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/inspect_allowed_roles_001.py",
+    "original_sha256": "9db8eec2254ad9ac9844a1a0fbc747047686f491820474e988b118e3c0c6c506",
+    "public_sha256": "9db8eec2254ad9ac9844a1a0fbc747047686f491820474e988b118e3c0c6c506",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/learning_base_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/learning_base_001.py",
+    "original_sha256": "05bbd89d94fc1ce6862fd18a50ff33daf7ad21a0a664f877942276fb03464978",
+    "public_sha256": "05bbd89d94fc1ce6862fd18a50ff33daf7ad21a0a664f877942276fb03464978",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/model_hash_supplement_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/model_hash_supplement_001.py",
+    "original_sha256": "7374c041a4923786eb968b9092e4ea3f41276a603f5e5593c90c6c0d1e62bbae",
+    "public_sha256": "7374c041a4923786eb968b9092e4ea3f41276a603f5e5593c90c6c0d1e62bbae",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/ocr_prepare_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/ocr_prepare_001.py",
+    "original_sha256": "81eaf2a1f0c97b595ce7b41b1b98cd85ea865c84b233fc5f8cf59a9468750b15",
+    "public_sha256": "81eaf2a1f0c97b595ce7b41b1b98cd85ea865c84b233fc5f8cf59a9468750b15",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/paper_polish_003.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/paper_polish_003.py",
+    "original_sha256": "52a85d4811653a641c9bdf5d9c399746d72c701ac231dff82bcc77b88ad83f06",
+    "public_sha256": "52a85d4811653a641c9bdf5d9c399746d72c701ac231dff82bcc77b88ad83f06",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/paper_update_007_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/paper_update_007_001.py",
+    "original_sha256": "52cf0e2fde7f5308fd2f9273c1130840855e11c702323cb0868dead9b6cc20b9",
+    "public_sha256": "52cf0e2fde7f5308fd2f9273c1130840855e11c702323cb0868dead9b6cc20b9",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/paper_update_007_002.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/paper_update_007_002.py",
+    "original_sha256": "f73ba5939cae597f34114e7f34ed81c2a62e41bf1ae2e5730b1e766673f68256",
+    "public_sha256": "f73ba5939cae597f34114e7f34ed81c2a62e41bf1ae2e5730b1e766673f68256",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/prepare_final_paper_receipt_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/prepare_final_paper_receipt_001.py",
+    "original_sha256": "eeeff3c74682a9ee6ae6ea65bb00877bcdcd742d84bb52291893ff24ff18d33b",
+    "public_sha256": "eeeff3c74682a9ee6ae6ea65bb00877bcdcd742d84bb52291893ff24ff18d33b",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/prepare_final_paper_receipt_002.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/prepare_final_paper_receipt_002.py",
+    "original_sha256": "5c283a559f489597e121ffb491fd78ac693f57f385740381b1a05a13ded96925",
+    "public_sha256": "5c283a559f489597e121ffb491fd78ac693f57f385740381b1a05a13ded96925",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/primary_remeasurement_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/primary_remeasurement_001.py",
+    "original_sha256": "4c526a41a3bce252fbcc9807e9c745659652fcde27514ececa06bfbe3c23e153",
+    "public_sha256": "4c526a41a3bce252fbcc9807e9c745659652fcde27514ececa06bfbe3c23e153",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/primary_scorer_parity_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/primary_scorer_parity_001.py",
+    "original_sha256": "47003267b467632a619527f0c069ad81beaba2e63e8ee31be5839213761e6666",
+    "public_sha256": "47003267b467632a619527f0c069ad81beaba2e63e8ee31be5839213761e6666",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/primary_scorer_parity_002.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/primary_scorer_parity_002.py",
+    "original_sha256": "24d06f6bc71c616927bd70bc701b8137b2c5d9280b80d8becd8c975f94aedfcf",
+    "public_sha256": "24d06f6bc71c616927bd70bc701b8137b2c5d9280b80d8becd8c975f94aedfcf",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/probe_diagnostic_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/probe_diagnostic_001.py",
+    "original_sha256": "cd1225eefc68e3c69d354ad9b84906336178c55a70fac60447b99f4939f43cfe",
+    "public_sha256": "cd1225eefc68e3c69d354ad9b84906336178c55a70fac60447b99f4939f43cfe",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/progress_digest_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/progress_digest_001.py",
+    "original_sha256": "8c32d56127106d9f3c1dce3af6e49e1c7e51efb2dd9204b0756170de47f68185",
+    "public_sha256": "8c32d56127106d9f3c1dce3af6e49e1c7e51efb2dd9204b0756170de47f68185",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/replay_numeric_tables_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/replay_numeric_tables_001.py",
+    "original_sha256": "359c812016dd16ffab536cdc1916e0033fb9ed668c8801a9e4ef71babb844966",
+    "public_sha256": "359c812016dd16ffab536cdc1916e0033fb9ed668c8801a9e4ef71babb844966",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/replay_numeric_tables_002.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/replay_numeric_tables_002.py",
+    "original_sha256": "d203d3498ee1c1c50181bc4be934dcf11f575aed36967e08a1ee1accccc9a3f6",
+    "public_sha256": "d203d3498ee1c1c50181bc4be934dcf11f575aed36967e08a1ee1accccc9a3f6",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/replay_numeric_tables_003.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/replay_numeric_tables_003.py",
+    "original_sha256": "6a5e36f833150e4e87347d524a4cf832d65fc6c05fe7b78852f1eb9bda8f00bc",
+    "public_sha256": "6a5e36f833150e4e87347d524a4cf832d65fc6c05fe7b78852f1eb9bda8f00bc",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/resource_dispatcher_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/resource_dispatcher_001.py",
+    "original_sha256": "32ad8fb97bd3f32cc647475fcdad8155132d47c1e1ee191b1ae6f21787773933",
+    "public_sha256": "32ad8fb97bd3f32cc647475fcdad8155132d47c1e1ee191b1ae6f21787773933",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/run_biomedical_sequence_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/run_biomedical_sequence_001.py",
+    "original_sha256": "8e8adfd467a9a631b9afda614f256a513b7ef96920b407fd99e5f029c1681e57",
+    "public_sha256": "8e8adfd467a9a631b9afda614f256a513b7ef96920b407fd99e5f029c1681e57",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/run_pharma_repair_006.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/run_pharma_repair_006.py",
+    "original_sha256": "5c72a575a8120ce4b743c7510aec14dd00581c22767b8dbca3421b54a8f64936",
+    "public_sha256": "5c72a575a8120ce4b743c7510aec14dd00581c22767b8dbca3421b54a8f64936",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/run_pilot_sequence_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/run_pilot_sequence_001.py",
+    "original_sha256": "61940d6d9ae7df4c2d61e66cde528550d08d45a1d491cdd8aead2e3d70226c9e",
+    "public_sha256": "61940d6d9ae7df4c2d61e66cde528550d08d45a1d491cdd8aead2e3d70226c9e",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/run_pilot_sequence_002.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/run_pilot_sequence_002.py",
+    "original_sha256": "1b4a07d2f9e2d9d96148bd217ef6ec57ae5787d6c74a70557496706e60449fdf",
+    "public_sha256": "1b4a07d2f9e2d9d96148bd217ef6ec57ae5787d6c74a70557496706e60449fdf",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/run_pilot_sequence_004.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/run_pilot_sequence_004.py",
+    "original_sha256": "4832125c9abc2f27ad40cfc8bd9fc62cc1cbeffcdd2090a71b87f2a134cd18d3",
+    "public_sha256": "4832125c9abc2f27ad40cfc8bd9fc62cc1cbeffcdd2090a71b87f2a134cd18d3",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/run_pilot_sequence_005.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/run_pilot_sequence_005.py",
+    "original_sha256": "a62194fb2257b7715ee79f7dd9b39850b3b9af3339cdd833f890fac5aaeff79b",
+    "public_sha256": "a62194fb2257b7715ee79f7dd9b39850b3b9af3339cdd833f890fac5aaeff79b",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/run_primary_parity_sequence_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/run_primary_parity_sequence_001.py",
+    "original_sha256": "b5f57e6ec18442752e466dca7c1ebc684d85137094cead0f6d11bcf92325cc58",
+    "public_sha256": "b5f57e6ec18442752e466dca7c1ebc684d85137094cead0f6d11bcf92325cc58",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t0_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t0_001.py",
+    "original_sha256": "aacc6a2096f925d2378c4f4f54797edc5135b0dd3afc1b435bd839b9691a381d",
+    "public_sha256": "aacc6a2096f925d2378c4f4f54797edc5135b0dd3afc1b435bd839b9691a381d",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t1_adjudicate_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t1_adjudicate_001.py",
+    "original_sha256": "07da0b09d0f3b40200c61ced86e45a6038c9b628a910a74da3ee6c01a05dac61",
+    "public_sha256": "07da0b09d0f3b40200c61ced86e45a6038c9b628a910a74da3ee6c01a05dac61",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t1_audit_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t1_audit_001.py",
+    "original_sha256": "c7827b79ed9d6eed8ff236c83976bcda36e51d7f470ffde674e611b254f31285",
+    "public_sha256": "31e8e43306cab8072fba009a8976a1c1224012015587f6406de70a6dac67334f",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t1_audit_002.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t1_audit_002.py",
+    "original_sha256": "d288bf0e4ad1cfe7d6e0258a5ee4c105a13cf72efb9e178c58600419a5f7b98d",
+    "public_sha256": "1cac0669ff446c1bfcb9ad61237e63de88f0a599637b1841fb56b531cfa91b17",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t1_freeze_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t1_freeze_001.py",
+    "original_sha256": "55a41be46bd3f68c7f3f149f87ca529189579fa4bd427916b15d300a4c404dfb",
+    "public_sha256": "55a41be46bd3f68c7f3f149f87ca529189579fa4bd427916b15d300a4c404dfb",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t1_freeze_002.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t1_freeze_002.py",
+    "original_sha256": "ccd838f58d7445675722de95ca287f034dae9b29c68107b726fc356048ccbc3e",
+    "public_sha256": "ccd838f58d7445675722de95ca287f034dae9b29c68107b726fc356048ccbc3e",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t1_freeze_003.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t1_freeze_003.py",
+    "original_sha256": "0ec7d86127cab9412dec315a0f437bb939ac26bf768bf5ddda34ea4aa3163b60",
+    "public_sha256": "0ec7d86127cab9412dec315a0f437bb939ac26bf768bf5ddda34ea4aa3163b60",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t1_freeze_004.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t1_freeze_004.py",
+    "original_sha256": "eb7a524e56eea473ab076ea6dc52abed48dece122343b9dc915448b43d560815",
+    "public_sha256": "eb7a524e56eea473ab076ea6dc52abed48dece122343b9dc915448b43d560815",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t1_page_review_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t1_page_review_001.py",
+    "original_sha256": "9241feea9274307c3022456114ab8340b64366187e73beaca43e5771845366dc",
+    "public_sha256": "9241feea9274307c3022456114ab8340b64366187e73beaca43e5771845366dc",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t1_page_review_002.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t1_page_review_002.py",
+    "original_sha256": "d3fb4d8016b2e0fb32b9a7bf7b91fc288d187caf619060f35d5d9a9f17d2c358",
+    "public_sha256": "d3fb4d8016b2e0fb32b9a7bf7b91fc288d187caf619060f35d5d9a9f17d2c358",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t1_semantic_adjudicate_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t1_semantic_adjudicate_001.py",
+    "original_sha256": "c1e547e01fa4e1550c3d392887f6cf98a8068087fe814e867521fcfbe01f443c",
+    "public_sha256": "c1e547e01fa4e1550c3d392887f6cf98a8068087fe814e867521fcfbe01f443c",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t2_biomedical_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t2_biomedical_001.py",
+    "original_sha256": "b15a8177a0171f796a1632777616872b0adb92b02adfa2f49ed07f89cf23052e",
+    "public_sha256": "b15a8177a0171f796a1632777616872b0adb92b02adfa2f49ed07f89cf23052e",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t2_biomedical_exact_004.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t2_biomedical_exact_004.py",
+    "original_sha256": "8fbfd9f965c1feb0063e7be2f141acb411527ff598e72d13a9877e38505ce203",
+    "public_sha256": "8fbfd9f965c1feb0063e7be2f141acb411527ff598e72d13a9877e38505ce203",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t2_summarize_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t2_summarize_001.py",
+    "original_sha256": "abebe97e8de33beab8ad8b9be5acb4f648fd487efcc6e24befdbf775b92749b3",
+    "public_sha256": "abebe97e8de33beab8ad8b9be5acb4f648fd487efcc6e24befdbf775b92749b3",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t3_colpali_expansion_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_colpali_expansion_001.py",
+    "original_sha256": "7dac92f43683c55d73b3b70d4af17123f7105849c50d74c1e32cf4113ff55ecc",
+    "public_sha256": "7dac92f43683c55d73b3b70d4af17123f7105849c50d74c1e32cf4113ff55ecc",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t3_colpali_expansion_004.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_colpali_expansion_004.py",
+    "original_sha256": "3465187a279688081607c9537975be3a2ac401bbfcf84e6262d00dce79a00a6f",
+    "public_sha256": "3465187a279688081607c9537975be3a2ac401bbfcf84e6262d00dce79a00a6f",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t3_colpali_expansion_006.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_colpali_expansion_006.py",
+    "original_sha256": "ef556fcf63eeb9114cc822d9c75c5710c41aee378c331bda19794824af90d264",
+    "public_sha256": "ef556fcf63eeb9114cc822d9c75c5710c41aee378c331bda19794824af90d264",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t3_colpali_pilot_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_colpali_pilot_001.py",
+    "original_sha256": "564b8e2a7ba2e66e8217ca42c9bb46dde9f5ff46b998948ae25153cc927d3a62",
+    "public_sha256": "564b8e2a7ba2e66e8217ca42c9bb46dde9f5ff46b998948ae25153cc927d3a62",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t3_colpali_pilot_002.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_colpali_pilot_002.py",
+    "original_sha256": "88204e1bb49b52619ebb09388f3e1d3ba5acd3ef86f3d9f5d99e81279c772457",
+    "public_sha256": "88204e1bb49b52619ebb09388f3e1d3ba5acd3ef86f3d9f5d99e81279c772457",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t3_colpali_pilot_004.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_colpali_pilot_004.py",
+    "original_sha256": "d309c0f77751089a15601722df4653b7fa6649608d825ba618e255dd0eef0012",
+    "public_sha256": "d309c0f77751089a15601722df4653b7fa6649608d825ba618e255dd0eef0012",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t3_colpali_pilot_005.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_colpali_pilot_005.py",
+    "original_sha256": "09d5100859c4f5961a6331953be7eba04fd6857c90ed8d4625965351bfcc27df",
+    "public_sha256": "09d5100859c4f5961a6331953be7eba04fd6857c90ed8d4625965351bfcc27df",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t3_expansion_summary_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_expansion_summary_001.py",
+    "original_sha256": "cfe7237e8e6baf0a3b4c13f16875497b3134264e8a35f785594783aba145554b",
+    "public_sha256": "cfe7237e8e6baf0a3b4c13f16875497b3134264e8a35f785594783aba145554b",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t3_expansion_summary_004.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_expansion_summary_004.py",
+    "original_sha256": "b6478b8db2981cc37b0ce1935c2ff9982a35be6bf1d39ab2d1a59d4f55dee66f",
+    "public_sha256": "b6478b8db2981cc37b0ce1935c2ff9982a35be6bf1d39ab2d1a59d4f55dee66f",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t3_expansion_summary_006.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_expansion_summary_006.py",
+    "original_sha256": "2c8a684280e7685a76b5e4e8c06b8d6692084f65ce73f9e3846f90bea414bd25",
+    "public_sha256": "2c8a684280e7685a76b5e4e8c06b8d6692084f65ce73f9e3846f90bea414bd25",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t3_expansion_summary_007.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_expansion_summary_007.py",
+    "original_sha256": "0a99384ddfb2eea0d1c48651c3996e1ba1dfa4299d9793d8a7a564ec52c7cfeb",
+    "public_sha256": "0a99384ddfb2eea0d1c48651c3996e1ba1dfa4299d9793d8a7a564ec52c7cfeb",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t3_pilot_summary_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_pilot_summary_001.py",
+    "original_sha256": "f2439b00052fffc5d7cefd66328d05beb23414d02a502578ddc7fdc248235990",
+    "public_sha256": "f2439b00052fffc5d7cefd66328d05beb23414d02a502578ddc7fdc248235990",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t3_pilot_summary_004.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_pilot_summary_004.py",
+    "original_sha256": "7e41e7f26b418c3bb77cdb24b4b49528a2b748b1968622375775b996ea9b87ec",
+    "public_sha256": "7e41e7f26b418c3bb77cdb24b4b49528a2b748b1968622375775b996ea9b87ec",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t3_pilot_summary_005.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_pilot_summary_005.py",
+    "original_sha256": "055614668440b0553d21e76281d0d217d5dab8c4c33a9aa1af6685887abe7ce0",
+    "public_sha256": "055614668440b0553d21e76281d0d217d5dab8c4c33a9aa1af6685887abe7ce0",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t3_scorer_diagnostic_003.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t3_scorer_diagnostic_003.py",
+    "original_sha256": "c3a6c50cf8666b17d49188f6748274f5483fa8168fad4925281542a8c8aecd5f",
+    "public_sha256": "c3a6c50cf8666b17d49188f6748274f5483fa8168fad4925281542a8c8aecd5f",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t4_assemble_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t4_assemble_001.py",
+    "original_sha256": "62904f91c7f41a04e717a49a08dd98ca1c4b8bcfd7b629ee688cb585616b7c02",
+    "public_sha256": "62904f91c7f41a04e717a49a08dd98ca1c4b8bcfd7b629ee688cb585616b7c02",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t4_assemble_002.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t4_assemble_002.py",
+    "original_sha256": "0a7bbe68cb3f92f743b917af764daa2502f4ec1a411f2cb77a14be46adc393b9",
+    "public_sha256": "0a7bbe68cb3f92f743b917af764daa2502f4ec1a411f2cb77a14be46adc393b9",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t4_assemble_003.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t4_assemble_003.py",
+    "original_sha256": "f67a69a2b5eca36fe6b4e22b59988788dbe0d0db438e142ede42669e0bbe1904",
+    "public_sha256": "f67a69a2b5eca36fe6b4e22b59988788dbe0d0db438e142ede42669e0bbe1904",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t4_assemble_004.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t4_assemble_004.py",
+    "original_sha256": "7713bbd4729eda12bcfcecde9a9c0f43e5431d04fff81adf30ce5a6b05f47fdd",
+    "public_sha256": "7713bbd4729eda12bcfcecde9a9c0f43e5431d04fff81adf30ce5a6b05f47fdd",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t5_integrate_002.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t5_integrate_002.py",
+    "original_sha256": "c08e160be92e3069bed88b732e687fee5877c31552e1b384c8a1ca641f0e66d4",
+    "public_sha256": "ce2a653b73231fe515cee954e8915820e88786d54139a207f5b22acedf4125ca",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_independent_007/t5_prepare_repro_001.py",
+    "original_relative_path": "scripts/icde_eab_independent_007/t5_prepare_repro_001.py",
+    "original_sha256": "7f0f568a51cc640418e4144507d51935a29980810306094f62aa3d8738596616",
+    "public_sha256": "7f0f568a51cc640418e4144507d51935a29980810306094f62aa3d8738596616",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_lastmile_008/archive_code.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/archive_code.py",
+    "original_sha256": "2f8441fa4ffb0d27de3799d7de476ce0b1094ca0c1c4d5877d13310d566e15ff",
+    "public_sha256": "2f8441fa4ffb0d27de3799d7de476ce0b1094ca0c1c4d5877d13310d566e15ff",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_lastmile_008/colpali_loader_003.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/colpali_loader_003.py",
+    "original_sha256": "340384411eb5c12933d1dad58a609db54f7e99fd7570686d6c9265ecdb6df5be",
+    "public_sha256": "340384411eb5c12933d1dad58a609db54f7e99fd7570686d6c9265ecdb6df5be",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_lastmile_008/common.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/common.py",
+    "original_sha256": "05a15364fd745df51e9dc2de5d9bb18b1f79d45ac179c817e722014d083afc03",
+    "public_sha256": "68772ac3127a8c02d8a487f669424d6c2cf8e78a0f4372ba269bcaba5bc2aef3",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_lastmile_008/init_l1_001.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/init_l1_001.py",
+    "original_sha256": "8a87044a50ca8cb9e374ea03726229896cc170c187e9642b2d79d838b6f9b02c",
+    "public_sha256": "8a87044a50ca8cb9e374ea03726229896cc170c187e9642b2d79d838b6f9b02c",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_lastmile_008/inspect_release_inputs_001.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/inspect_release_inputs_001.py",
+    "original_sha256": "e27c594f909b1aa61d93000a0b3527249a92bb7a082f636f3d60c80268c2a867",
+    "public_sha256": "6228b5232ffa08d81ecdd6ec027824fd63d6e8aa6f587712162001065ec774dc",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_lastmile_008/l0_paired_001.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/l0_paired_001.py",
+    "original_sha256": "b8a85a2c34df59aad9a0dd79c55ba4db88934bdfd7e9b1679737f85f973c3352",
+    "public_sha256": "b8a85a2c34df59aad9a0dd79c55ba4db88934bdfd7e9b1679737f85f973c3352",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_lastmile_008/l1_biomedical_colpali_001.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/l1_biomedical_colpali_001.py",
+    "original_sha256": "ad31b2410705653b92b3a5e0dd70e4dbd516bd01618ccd77d00b5faf2877ca23",
+    "public_sha256": "ad31b2410705653b92b3a5e0dd70e4dbd516bd01618ccd77d00b5faf2877ca23",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_lastmile_008/l1_biomedical_colpali_002.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/l1_biomedical_colpali_002.py",
+    "original_sha256": "fa57dae914349c117e5b821bb71e4f9259b1136c07a57e0e993b67e93691112b",
+    "public_sha256": "fa57dae914349c117e5b821bb71e4f9259b1136c07a57e0e993b67e93691112b",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_lastmile_008/l1_summary_001.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/l1_summary_001.py",
+    "original_sha256": "95fb251d88b39e3ce88fd5b38d4e2266ad1ac62973a7378ff2f02e921974fe0b",
+    "public_sha256": "95fb251d88b39e3ce88fd5b38d4e2266ad1ac62973a7378ff2f02e921974fe0b",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_lastmile_008/l1_summary_002.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/l1_summary_002.py",
+    "original_sha256": "a2ffcd35ba6a433f0e7c21f2015dff44905d46375042eeeabad3a2425f71dd8e",
+    "public_sha256": "a2ffcd35ba6a433f0e7c21f2015dff44905d46375042eeeabad3a2425f71dd8e",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_lastmile_008/l2_clean_retry_002.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/l2_clean_retry_002.py",
+    "original_sha256": "0975cecdd88332e0372378c208e584d516b13cc45f57a9328ebbcbb3fb94113d",
+    "public_sha256": "769475b420b875f86adcdbce26659a402060f11f74ab5540b2e96167ce9d75c6",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_lastmile_008/l2_summary_001.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/l2_summary_001.py",
+    "original_sha256": "4de36e7a16ceee4e483f16f3bf7e2f18b24467bb1199f2db94695c41cf209bcb",
+    "public_sha256": "4de36e7a16ceee4e483f16f3bf7e2f18b24467bb1199f2db94695c41cf209bcb",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_lastmile_008/minimal_gpu_sample_001.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/minimal_gpu_sample_001.py",
+    "original_sha256": "6e24f9b0ca495a13d70847195ea415b11f4ebd66f1c5a1a69772bbba0efb1daa",
+    "public_sha256": "6e24f9b0ca495a13d70847195ea415b11f4ebd66f1c5a1a69772bbba0efb1daa",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_lastmile_008/replay_release_005.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/replay_release_005.py",
+    "original_sha256": "5eb0b6ed626c2dcc2e279347c1aa1608bb4b8d7c1be6bc95b5361b362ae89fb0",
+    "public_sha256": "624f3661b76ab01da454aa5ee9b7725cd0a95f8877f6107ab6f0906ab60ac80a",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  },
+  {
+    "file": "source_archive/scripts/icde_eab_lastmile_008/run_l1_sequence_001.py",
+    "original_relative_path": "scripts/icde_eab_lastmile_008/run_l1_sequence_001.py",
+    "original_sha256": "6700a13c00c80318d6be9264a4a1f3be6a37efd9c33950b88857b52579d339dd",
+    "public_sha256": "a6ca0dd3a2135f3de995b30605373bd79d1f75ab3c434305482ab55055e09ac7",
+    "changes": "private absolute path placeholders only; source archive, not run automatically"
+  }
+]

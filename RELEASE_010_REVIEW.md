@@ -1,0 +1,3 @@
+# Candidate010 review, not published
+
+Sources:561-file007 base and221-file009 addendum. Ten obsolete drafting/private packaging files are omitted with hashes in the external diff ledger; every scientific replay dependency remains. The generic privacy predicate passes10negative/benign tests. Deterministic domain iteration fixes a row-order-only replay failure; all656 values/rankings and original expected hashes stay unchanged. Run reproduce_all.py for38 core tables/five figure families plus4 new010 lifecycle CSVs. Weights, corpus images, fullqrels, indexes and private Git history are excluded. Publication and a license grant require separate explicit user/rights-owner approval.

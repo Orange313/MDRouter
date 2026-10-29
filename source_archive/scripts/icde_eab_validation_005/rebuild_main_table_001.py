@@ -1,0 +1,6 @@
+import argparse,pathlib,csv
+p=argparse.ArgumentParser();p.add_argument('--input',required=True);p.add_argument('--output',required=True);a=p.parse_args();rows=list(csv.DictReader(pathlib.Path(a.input).open(encoding='utf8')));names={'vidore_v3_hr':'HR','vidore_v3_finance_en':'Finance-EN','vidore_v3_industrial':'Industrial','Pharmaceuticals':'Pharma'}
+out=[r'\begin{table*}[t]',r'\centering\caption{Measured resident paths on repeatedly exposed Dev data. Increment is relative to an ideal same-risk static-random envelope, in percentage points of Full Visual cost. Intervals are conditional paired family+process bootstrap95\%; they are not independent-test guarantees. Only Finance resident A/A passed.}\label{tab:main}',r'\begin{tabular}{llrrrrl}\toprule Domain & Policy & nDCG@10 & Positive regret & E2E(ms) & Increment(pp) & Paired95\% interval\\\midrule']
+for r in rows:
+ m=r['method'].replace('_',r'\_');out.append(f'{names[r["domain"]]} & {m} & {float(r["mean_nDCG10"]):.4f} & {float(r["mean_positive_regret"]):.4f} & {1000*float(r["actual_E2E_s"]):.2f} & {float(r["increment_pp"]):.2f} & [{float(r["paired95_low_pp"]):.2f},{float(r["paired95_high_pp"]):.2f}]'+r'\\')
+out.append(r'\bottomrule\end{tabular}\end{table*}');pathlib.Path(a.output).open('x',encoding='utf8').write('\n'.join(out)+'\n');print('PASS_ALL_32_METHOD_DOMAIN_ROWS')

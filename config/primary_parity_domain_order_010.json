@@ -1,0 +1,10 @@
+{
+  "domain_order": [
+    "vidore_v3_finance_en",
+    "vidore_v3_industrial",
+    "vidore_v3_hr",
+    "Pharmaceuticals"
+  ],
+  "source": "original007 primary_reference_parity.csv row order; no statistical redesign",
+  "why": "filesystem glob order varies across ext4/tmpfs; frozen explicit iteration preserves original bytehash"
+}

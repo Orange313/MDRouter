@@ -1,0 +1,108 @@
+[
+  {
+    "asset": "ColQwen2",
+    "revision": "2c9a09bb37ed19b63eb94ae6c29bb4e76eb6e3c2",
+    "url": "https://huggingface.co/vidore/colqwen2-v1.0-merged/resolve/2c9a09bb37ed19b63eb94ae6c29bb4e76eb6e3c2/README.md",
+    "time_BJ": "2026-10-28T23:32:49.029520+08:00",
+    "status": "VERIFIED_PINNED_HTTP",
+    "bytes": 5313,
+    "sha256": "ab46e54787908e4f6fa56d83b39cba54b7b9e35642046b0d1172aa80cabf17f4",
+    "final_url": "https://huggingface.co/api/resolve-cache/models/vidore/colqwen2-v1.0-merged/2c9a09bb37ed19b63eb94ae6c29bb4e76eb6e3c2/README.md?%2Fvidore%2Fcolqwen2-v1.0-merged%2Fresolve%2F2c9a09bb37ed19b63eb94ae6c29bb4e76eb6e3c2%2FREADME.md=&etag=%228ce0783d5a3c166b8dda3d1e504fd5b68c62d2d8%22"
+  },
+  {
+    "asset": "ColQwen2",
+    "revision": "2c9a09bb37ed19b63eb94ae6c29bb4e76eb6e3c2",
+    "url": "https://huggingface.co/vidore/colqwen2-v1.0-merged/resolve/2c9a09bb37ed19b63eb94ae6c29bb4e76eb6e3c2/license.md",
+    "time_BJ": "2026-10-28T23:32:51.748051+08:00",
+    "status": "NOT_VERIFIED",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "asset": "ColQwen2",
+    "revision": "2c9a09bb37ed19b63eb94ae6c29bb4e76eb6e3c2",
+    "url": "https://huggingface.co/vidore/colqwen2-v1.0-merged/resolve/2c9a09bb37ed19b63eb94ae6c29bb4e76eb6e3c2/LICENSE",
+    "time_BJ": "2026-10-28T23:32:52.196184+08:00",
+    "status": "NOT_VERIFIED",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "asset": "ColPali",
+    "revision": "1b5c8929330df1a66de441a9b5409a878f0de5b0",
+    "url": "https://huggingface.co/vidore/colpali-v1.3/resolve/1b5c8929330df1a66de441a9b5409a878f0de5b0/README.md",
+    "time_BJ": "2026-10-28T23:32:49.030020+08:00",
+    "status": "VERIFIED_PINNED_HTTP",
+    "bytes": 6460,
+    "sha256": "2ae711e937255531903a0eac18db0d971f7bafb2e3acc94abc925e959e38a634",
+    "final_url": "https://huggingface.co/api/resolve-cache/models/vidore/colpali-v1.3/1b5c8929330df1a66de441a9b5409a878f0de5b0/README.md?%2Fvidore%2Fcolpali-v1.3%2Fresolve%2F1b5c8929330df1a66de441a9b5409a878f0de5b0%2FREADME.md=&etag=%2295214e4ff4b564bbf3c09b4a60fcba396593b2d9%22"
+  },
+  {
+    "asset": "ColPali",
+    "revision": "1b5c8929330df1a66de441a9b5409a878f0de5b0",
+    "url": "https://huggingface.co/vidore/colpali-v1.3/resolve/1b5c8929330df1a66de441a9b5409a878f0de5b0/license.md",
+    "time_BJ": "2026-10-28T23:32:50.712014+08:00",
+    "status": "NOT_VERIFIED",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "asset": "ColPali",
+    "revision": "1b5c8929330df1a66de441a9b5409a878f0de5b0",
+    "url": "https://huggingface.co/vidore/colpali-v1.3/resolve/1b5c8929330df1a66de441a9b5409a878f0de5b0/LICENSE",
+    "time_BJ": "2026-10-28T23:32:51.158278+08:00",
+    "status": "NOT_VERIFIED",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "asset": "PaliGemmaBase",
+    "revision": "30ab955d073de4a91dc5a288e8c97226647e3e5a",
+    "url": "https://huggingface.co/vidore/colpaligemma-3b-pt-448-base/resolve/30ab955d073de4a91dc5a288e8c97226647e3e5a/README.md",
+    "time_BJ": "2026-10-28T23:32:49.030519+08:00",
+    "status": "VERIFIED_PINNED_HTTP",
+    "bytes": 4117,
+    "sha256": "adfcf9148e9726ab11af98d375dedbe281c9ac08497a67cf0f2ec87460dcadef",
+    "final_url": "https://huggingface.co/api/resolve-cache/models/vidore/colpaligemma-3b-pt-448-base/30ab955d073de4a91dc5a288e8c97226647e3e5a/README.md?%2Fvidore%2Fcolpaligemma-3b-pt-448-base%2Fresolve%2F30ab955d073de4a91dc5a288e8c97226647e3e5a%2FREADME.md=&etag=%22e73fae6507bff3bb021a94fe2c3f0ea6bf94a6c4%22"
+  },
+  {
+    "asset": "PaliGemmaBase",
+    "revision": "30ab955d073de4a91dc5a288e8c97226647e3e5a",
+    "url": "https://huggingface.co/vidore/colpaligemma-3b-pt-448-base/resolve/30ab955d073de4a91dc5a288e8c97226647e3e5a/license.md",
+    "time_BJ": "2026-10-28T23:32:51.834161+08:00",
+    "status": "NOT_VERIFIED",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "asset": "PaliGemmaBase",
+    "revision": "30ab955d073de4a91dc5a288e8c97226647e3e5a",
+    "url": "https://huggingface.co/vidore/colpaligemma-3b-pt-448-base/resolve/30ab955d073de4a91dc5a288e8c97226647e3e5a/LICENSE",
+    "time_BJ": "2026-10-28T23:32:52.196184+08:00",
+    "status": "NOT_VERIFIED",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "asset": "Biomedical",
+    "revision": "e82eb2f3e9f701688e6f3ba41fffad68c5b3b5fa",
+    "url": "https://huggingface.co/datasets/vidore/biomedical_lectures_eng_v2/resolve/e82eb2f3e9f701688e6f3ba41fffad68c5b3b5fa/README.md",
+    "time_BJ": "2026-10-28T23:32:49.031020+08:00",
+    "status": "VERIFIED_PINNED_HTTP",
+    "bytes": 4947,
+    "sha256": "d99854fb2f6c9533628a747368607f5b9c51097e0116143f9d3a1b3fbd928a66",
+    "final_url": "https://huggingface.co/api/resolve-cache/datasets/vidore/biomedical_lectures_eng_v2/e82eb2f3e9f701688e6f3ba41fffad68c5b3b5fa/README.md?%2Fdatasets%2Fvidore%2Fbiomedical_lectures_eng_v2%2Fresolve%2Fe82eb2f3e9f701688e6f3ba41fffad68c5b3b5fa%2FREADME.md=&etag=%22592765935be4cd6d91f8febbdb1ed4d0acd4fdee%22"
+  },
+  {
+    "asset": "Biomedical",
+    "revision": "e82eb2f3e9f701688e6f3ba41fffad68c5b3b5fa",
+    "url": "https://huggingface.co/datasets/vidore/biomedical_lectures_eng_v2/resolve/e82eb2f3e9f701688e6f3ba41fffad68c5b3b5fa/license.md",
+    "time_BJ": "2026-10-28T23:32:51.587736+08:00",
+    "status": "VERIFIED_PINNED_HTTP",
+    "bytes": 19128,
+    "sha256": "8386f4aded6116293b4a2daf378638abe4ed49406c696c12d4e8c19310aec46e",
+    "final_url": "https://huggingface.co/api/resolve-cache/datasets/vidore/biomedical_lectures_eng_v2/e82eb2f3e9f701688e6f3ba41fffad68c5b3b5fa/license.md?%2Fdatasets%2Fvidore%2Fbiomedical_lectures_eng_v2%2Fresolve%2Fe82eb2f3e9f701688e6f3ba41fffad68c5b3b5fa%2Flicense.md=&etag=%226b81a4b5748fd739889e7aeac096f4a5af30befb%22"
+  },
+  {
+    "asset": "Biomedical",
+    "revision": "e82eb2f3e9f701688e6f3ba41fffad68c5b3b5fa",
+    "url": "https://huggingface.co/datasets/vidore/biomedical_lectures_eng_v2/resolve/e82eb2f3e9f701688e6f3ba41fffad68c5b3b5fa/LICENSE",
+    "time_BJ": "2026-10-28T23:32:52.479617+08:00",
+    "status": "NOT_VERIFIED",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

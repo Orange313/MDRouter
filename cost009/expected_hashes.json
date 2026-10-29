@@ -1,0 +1,10 @@
+{
+  "reports/icde_eab_submission_gate_009/Y1/summary_001/setup_component_raw.csv": "1fbf0ec045cf74abcff0e02adf86d0db30b1bfbef7dcca7ae0ed967ce9b0c9d0",
+  "reports/icde_eab_submission_gate_009/Y1/summary_001/index_equivalence.csv": "5eba44c95c13ac8b744b324ef7157bd62e2c56343487a18a6bd213cf5e785231",
+  "reports/icde_eab_submission_gate_009/Y1/summary_001/break_even_queries.csv": "af4af9b3bfd5c46cc574a640e27d6d6ea6c7991d00796653fa805aea4db07244",
+  "reports/icde_eab_submission_gate_009/Y1/summary_001/cold_first_requests.csv": "c4634dd7d41aac6a8d3399f4ea3e6191d9187ca197f771102ea5b63fd7246881",
+  "reports/icde_eab_submission_gate_009/Y1/summary_001/amortization_scenarios.csv": "1273307df8a483ec9b06fed43a28311b07ae5e973a096037d8b8e686d00dc3f7",
+  "reports/icde_eab_submission_gate_009/Y1/summary_001/setup_measured.csv": "604afdfdb1818addfb3de77e483f72185006c1317db492846e4adb784b9d17e8",
+  "reports/icde_eab_submission_gate_009/Y1/summary_001/warm_static_costs_009.csv": "406d648ae3df307df656a65bfa3bd8d05524f06846cca6d53cfec55f3744515f",
+  "reports/icde_eab_submission_gate_009/Y1/summary_001/cpu_only_BM25_requests.csv": "d6a8e3bf1ff52dc1c47bcbba56fb2782c7427c70cca89164cf287aed813196a2"
+}
